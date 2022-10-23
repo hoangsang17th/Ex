@@ -1,0 +1,160 @@
+What is the fundamental difference between the Ising and Potts models? - Matter Modeling Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+What I understand is that the only difference between the Ising and Potts models is that Ising has two types of spins, and Potts has n types of spins.
+However, I am wondering if the Hamiltonian (energy formula) is the same or different.
+Are the Hamiltonianas the same or different?
+What other differences do they have?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nWhat I understand is that the only difference between the Ising and Potts models is that Ising has two types of spins, and Potts has n types of spins.'
+b'However, I am wondering if the Hamiltonian (energy formula) is the same or different.'
+b'Are the Hamiltonianas the same or different?'
+b'What other differences do they have?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'the': 6, 'is': 3, 'that': 2, 'and': 2, 'has': 2, 'of': 2, 'same': 2, 'or': 2, 'only': 1, 'between': 1, 'am': 1, 'if': 1, 'other': 1, 'do': 1, 'they': 1, 'have': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+What: what
+I: i
+understand: understand
+is: is
+that: that
+the: the
+only: onli
+difference: differ
+between: between
+the: the
+Ising: ise
+and: and
+Potts: pott
+models: model
+is: is
+that: that
+Ising: ise
+has: ha
+two: two
+types: type
+of: of
+spins: spin
+,: ,
+and: and
+Potts: pott
+has: ha
+n: n
+types: type
+of: of
+spins: spin
+.: .
+However: howev
+,: ,
+I: i
+am: am
+wondering: wonder
+if: if
+the: the
+Hamiltonian: hamiltonian
+(: (
+energy: energi
+formula: formula
+): )
+is: is
+the: the
+same: same
+or: or
+different: differ
+.: .
+Are: are
+the: the
+Hamiltonianas: hamiltoniana
+the: the
+same: same
+or: or
+different: differ
+?: ?
+What: what
+other: other
+differences: differ
+do: do
+they: they
+have: have
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+What: What
+I: I
+understand: understand
+is: is
+that: that
+the: the
+only: only
+difference: difference
+between: between
+the: the
+Ising: Ising
+and: and
+Potts: Potts
+models: model
+is: is
+that: that
+Ising: Ising
+has: ha
+two: two
+types: type
+of: of
+spins: spin
+,: ,
+and: and
+Potts: Potts
+has: ha
+n: n
+types: type
+of: of
+spins: spin
+.: .
+However: However
+,: ,
+I: I
+am: am
+wondering: wondering
+if: if
+the: the
+Hamiltonian: Hamiltonian
+(: (
+energy: energy
+formula: formula
+): )
+is: is
+the: the
+same: same
+or: or
+different: different
+.: .
+Are: Are
+the: the
+Hamiltonianas: Hamiltonianas
+the: the
+same: same
+or: or
+different: different
+?: ?
+What: What
+other: other
+differences: difference
+do: do
+they: they
+have: have
+?: ?

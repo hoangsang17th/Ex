@@ -1,0 +1,502 @@
+publications - Is it okay to submit my paper if my code can't be organized now? - Academia Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+Currently, I am working on a model that includes deep neural networks. I am not an expert in coding nor are my colleagues.
+I had a hypothesis and it seems to be working. So, I may need to write a research paper and publish it. It takes much time to go through every step and understand in detail the code modules I am using. I somehow managed to join the patches without knowing the coding-related details of each patch. I am taking the patches from the existing GitHub models.
+Whenever I see the codes of research papers, they are well-organized by a team of experts. But I am alone and have no team. The research is a part of my thesis. I have no clue about organizing the code.
+I have two options:
+
+not sharing the code with the journal
+In this case, if the journal asks for the code, then there is no other choice for me and I need to select the second option.
+
+posting the managed code on GitHub and then keeping the link in the research paper.
+I am afraid that the readability and the organization of the code impact the decision of reviewers.
+
+
+Which option should I select now?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nCurrently, I am working on a model that includes deep neural networks.'
+b'I am not an expert in coding nor are my colleagues.'
+b'I had a hypothesis and it seems to be working.'
+b'So, I may need to write a research paper and publish it.'
+b'It takes much time to go through every step and understand in detail the code modules I am using.'
+b'I somehow managed to join the patches without knowing the coding-related details of each patch.'
+b'I am taking the patches from the existing GitHub models.'
+b'Whenever I see the codes of research papers, they are well-organized by a team of experts.'
+b'But I am alone and have no team.'
+b'The research is a part of my thesis.'
+b'I have no clue about organizing the code.'
+b'I have two options:\n\nnot sharing the code with the journal\nIn this case, if the journal asks for the code, then there is no other choice for me and I need to select the second option.'
+b'posting the managed code on GitHub and then keeping the link in the research paper.'
+b'I am afraid that the readability and the organization of the code impact the decision of reviewers.'
+b'Which option should I select now?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'the': 19, 'and': 7, 'am': 6, 'of': 6, 'a': 5, 'to': 5, 'in': 3, 'have': 3, 'no': 3, 'on': 2, 'that': 2, 'not': 2, 'are': 2, 'my': 2, 'it': 2, 'is': 2, 'for': 2, 'then': 2, 'an': 1, 'nor': 1, 'had': 1, 'be': 1, 'through': 1, 'each': 1, 'from': 1, 'they': 1, 'by': 1, 'about': 1, 'with': 1, 'this': 1, 'if': 1, 'there': 1, 'other': 1, 'me': 1, 'should': 1, 'now': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+Currently: current
+,: ,
+I: i
+am: am
+working: work
+on: on
+a: a
+model: model
+that: that
+includes: includ
+deep: deep
+neural: neural
+networks: network
+.: .
+I: i
+am: am
+not: not
+an: an
+expert: expert
+in: in
+coding: code
+nor: nor
+are: are
+my: my
+colleagues: colleagu
+.: .
+I: i
+had: had
+a: a
+hypothesis: hypothesi
+and: and
+it: it
+seems: seem
+to: to
+be: be
+working: work
+.: .
+So: so
+,: ,
+I: i
+may: may
+need: need
+to: to
+write: write
+a: a
+research: research
+paper: paper
+and: and
+publish: publish
+it: it
+.: .
+It: it
+takes: take
+much: much
+time: time
+to: to
+go: go
+through: through
+every: everi
+step: step
+and: and
+understand: understand
+in: in
+detail: detail
+the: the
+code: code
+modules: modul
+I: i
+am: am
+using: use
+.: .
+I: i
+somehow: somehow
+managed: manag
+to: to
+join: join
+the: the
+patches: patch
+without: without
+knowing: know
+the: the
+coding-related: coding-rel
+details: detail
+of: of
+each: each
+patch: patch
+.: .
+I: i
+am: am
+taking: take
+the: the
+patches: patch
+from: from
+the: the
+existing: exist
+GitHub: github
+models: model
+.: .
+Whenever: whenev
+I: i
+see: see
+the: the
+codes: code
+of: of
+research: research
+papers: paper
+,: ,
+they: they
+are: are
+well-organized: well-organ
+by: by
+a: a
+team: team
+of: of
+experts: expert
+.: .
+But: but
+I: i
+am: am
+alone: alon
+and: and
+have: have
+no: no
+team: team
+.: .
+The: the
+research: research
+is: is
+a: a
+part: part
+of: of
+my: my
+thesis: thesi
+.: .
+I: i
+have: have
+no: no
+clue: clue
+about: about
+organizing: organ
+the: the
+code: code
+.: .
+I: i
+have: have
+two: two
+options: option
+:: :
+not: not
+sharing: share
+the: the
+code: code
+with: with
+the: the
+journal: journal
+In: in
+this: thi
+case: case
+,: ,
+if: if
+the: the
+journal: journal
+asks: ask
+for: for
+the: the
+code: code
+,: ,
+then: then
+there: there
+is: is
+no: no
+other: other
+choice: choic
+for: for
+me: me
+and: and
+I: i
+need: need
+to: to
+select: select
+the: the
+second: second
+option: option
+.: .
+posting: post
+the: the
+managed: manag
+code: code
+on: on
+GitHub: github
+and: and
+then: then
+keeping: keep
+the: the
+link: link
+in: in
+the: the
+research: research
+paper: paper
+.: .
+I: i
+am: am
+afraid: afraid
+that: that
+the: the
+readability: readabl
+and: and
+the: the
+organization: organ
+of: of
+the: the
+code: code
+impact: impact
+the: the
+decision: decis
+of: of
+reviewers: review
+.: .
+Which: which
+option: option
+should: should
+I: i
+select: select
+now: now
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+Currently: Currently
+,: ,
+I: I
+am: am
+working: working
+on: on
+a: a
+model: model
+that: that
+includes: includes
+deep: deep
+neural: neural
+networks: network
+.: .
+I: I
+am: am
+not: not
+an: an
+expert: expert
+in: in
+coding: coding
+nor: nor
+are: are
+my: my
+colleagues: colleague
+.: .
+I: I
+had: had
+a: a
+hypothesis: hypothesis
+and: and
+it: it
+seems: seems
+to: to
+be: be
+working: working
+.: .
+So: So
+,: ,
+I: I
+may: may
+need: need
+to: to
+write: write
+a: a
+research: research
+paper: paper
+and: and
+publish: publish
+it: it
+.: .
+It: It
+takes: take
+much: much
+time: time
+to: to
+go: go
+through: through
+every: every
+step: step
+and: and
+understand: understand
+in: in
+detail: detail
+the: the
+code: code
+modules: module
+I: I
+am: am
+using: using
+.: .
+I: I
+somehow: somehow
+managed: managed
+to: to
+join: join
+the: the
+patches: patch
+without: without
+knowing: knowing
+the: the
+coding-related: coding-related
+details: detail
+of: of
+each: each
+patch: patch
+.: .
+I: I
+am: am
+taking: taking
+the: the
+patches: patch
+from: from
+the: the
+existing: existing
+GitHub: GitHub
+models: model
+.: .
+Whenever: Whenever
+I: I
+see: see
+the: the
+codes: code
+of: of
+research: research
+papers: paper
+,: ,
+they: they
+are: are
+well-organized: well-organized
+by: by
+a: a
+team: team
+of: of
+experts: expert
+.: .
+But: But
+I: I
+am: am
+alone: alone
+and: and
+have: have
+no: no
+team: team
+.: .
+The: The
+research: research
+is: is
+a: a
+part: part
+of: of
+my: my
+thesis: thesis
+.: .
+I: I
+have: have
+no: no
+clue: clue
+about: about
+organizing: organizing
+the: the
+code: code
+.: .
+I: I
+have: have
+two: two
+options: option
+:: :
+not: not
+sharing: sharing
+the: the
+code: code
+with: with
+the: the
+journal: journal
+In: In
+this: this
+case: case
+,: ,
+if: if
+the: the
+journal: journal
+asks: asks
+for: for
+the: the
+code: code
+,: ,
+then: then
+there: there
+is: is
+no: no
+other: other
+choice: choice
+for: for
+me: me
+and: and
+I: I
+need: need
+to: to
+select: select
+the: the
+second: second
+option: option
+.: .
+posting: posting
+the: the
+managed: managed
+code: code
+on: on
+GitHub: GitHub
+and: and
+then: then
+keeping: keeping
+the: the
+link: link
+in: in
+the: the
+research: research
+paper: paper
+.: .
+I: I
+am: am
+afraid: afraid
+that: that
+the: the
+readability: readability
+and: and
+the: the
+organization: organization
+of: of
+the: the
+code: code
+impact: impact
+the: the
+decision: decision
+of: of
+reviewers: reviewer
+.: .
+Which: Which
+option: option
+should: should
+I: I
+select: select
+now: now
+?: ?

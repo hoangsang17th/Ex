@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"
+        integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.5.3/socket.io.js"></script>
+
+</head>
+
+<body>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var socket = io('http://localhost:5000');
+
+            socket.on('connect', function () {
+                socket.send('User Connected');
+            });
+            socket.on('message', function (msg) {
+                $("#messages").append($("<p>").text(msg));
+            });
+
+            $("sendBtn").on("click", (function () {
+                console.log("Lỗi cc");
+                // $("#messages").append("<p>" + $("#message").val() + "</p>");
+                // $("#messages").append($("<p>").text($("#message").val()));
+                socket.emit("message", $("#message").val());
+                // $("#message").val("");
+            }));
+
+            function addMessage() {
+                var paragraph = document.getElementById("messages")
+                var x = document.getElementById("message").value;
+                document.getElementById("messages").innerHTML = x;
+            }
+        })
+    </script>
+    <div id="messages">Hello
+
+    </div>
+    <input type="text" id="message">
+    <input type="button" value="Send" id="sendBtn" onclick="addMessage()">
+</body>
+
+</html>

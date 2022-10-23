@@ -1,0 +1,330 @@
+How can I improve my noodle soup? - Seasoned Advice
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+I boiled one chicken breast in three litres of water with three medium-sized raw onions, two teaspoons of ginger powder, two teaspoons of dried garlic flakes, 10–15 whole black peppers, two table spoons of canola oil, and three teaspoons of salt.
+After boiling for almost 35 minutes, the water is reduced to two litres. Then I added three coils of egg noodles and cooked until the noodles were soft.
+I tried the noodle soup, and it tasted bland. It felt like this soup was missing a lot of things. I finished eating the noodles, but I still have the breast piece and almost one litre of soup.
+What can I add more to improve the taste of this soup?
+N.B. I am allergic to bell peppers or chili peppers.
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nI boiled one chicken breast in three litres of water with three medium-sized raw onions, two teaspoons of ginger powder, two teaspoons of dried garlic flakes, 10\xe2\x80\x9315 whole black peppers, two table spoons of canola oil, and three teaspoons of salt.'
+b'After boiling for almost 35 minutes, the water is reduced to two litres.'
+b'Then I added three coils of egg noodles and cooked until the noodles were soft.'
+b'I tried the noodle soup, and it tasted bland.'
+b'It felt like this soup was missing a lot of things.'
+b'I finished eating the noodles, but I still have the breast piece and almost one litre of soup.'
+b'What can I add more to improve the taste of this soup?'
+b'N.B.'
+b'I am allergic to bell peppers or chili peppers.'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'of': 9, 'the': 6, 'and': 4, 'to': 3, 'this': 2, 'in': 1, 'with': 1, 'for': 1, 'is': 1, 'until': 1, 'were': 1, 'it': 1, 'was': 1, 'a': 1, 'but': 1, 'have': 1, 'can': 1, 'more': 1, 'am': 1, 'or': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+I: i
+boiled: boil
+one: one
+chicken: chicken
+breast: breast
+in: in
+three: three
+litres: litr
+of: of
+water: water
+with: with
+three: three
+medium-sized: medium-s
+raw: raw
+onions: onion
+,: ,
+two: two
+teaspoons: teaspoon
+of: of
+ginger: ginger
+powder: powder
+,: ,
+two: two
+teaspoons: teaspoon
+of: of
+dried: dri
+garlic: garlic
+flakes: flake
+,: ,
+10–15: 10–15
+whole: whole
+black: black
+peppers: pepper
+,: ,
+two: two
+table: tabl
+spoons: spoon
+of: of
+canola: canola
+oil: oil
+,: ,
+and: and
+three: three
+teaspoons: teaspoon
+of: of
+salt: salt
+.: .
+After: after
+boiling: boil
+for: for
+almost: almost
+35: 35
+minutes: minut
+,: ,
+the: the
+water: water
+is: is
+reduced: reduc
+to: to
+two: two
+litres: litr
+.: .
+Then: then
+I: i
+added: ad
+three: three
+coils: coil
+of: of
+egg: egg
+noodles: noodl
+and: and
+cooked: cook
+until: until
+the: the
+noodles: noodl
+were: were
+soft: soft
+.: .
+I: i
+tried: tri
+the: the
+noodle: noodl
+soup: soup
+,: ,
+and: and
+it: it
+tasted: tast
+bland: bland
+.: .
+It: it
+felt: felt
+like: like
+this: thi
+soup: soup
+was: wa
+missing: miss
+a: a
+lot: lot
+of: of
+things: thing
+.: .
+I: i
+finished: finish
+eating: eat
+the: the
+noodles: noodl
+,: ,
+but: but
+I: i
+still: still
+have: have
+the: the
+breast: breast
+piece: piec
+and: and
+almost: almost
+one: one
+litre: litr
+of: of
+soup: soup
+.: .
+What: what
+can: can
+I: i
+add: add
+more: more
+to: to
+improve: improv
+the: the
+taste: tast
+of: of
+this: thi
+soup: soup
+?: ?
+N.B: n.b
+.: .
+I: i
+am: am
+allergic: allerg
+to: to
+bell: bell
+peppers: pepper
+or: or
+chili: chili
+peppers: pepper
+.: .
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+I: I
+boiled: boiled
+one: one
+chicken: chicken
+breast: breast
+in: in
+three: three
+litres: litre
+of: of
+water: water
+with: with
+three: three
+medium-sized: medium-sized
+raw: raw
+onions: onion
+,: ,
+two: two
+teaspoons: teaspoon
+of: of
+ginger: ginger
+powder: powder
+,: ,
+two: two
+teaspoons: teaspoon
+of: of
+dried: dried
+garlic: garlic
+flakes: flake
+,: ,
+10–15: 10–15
+whole: whole
+black: black
+peppers: pepper
+,: ,
+two: two
+table: table
+spoons: spoon
+of: of
+canola: canola
+oil: oil
+,: ,
+and: and
+three: three
+teaspoons: teaspoon
+of: of
+salt: salt
+.: .
+After: After
+boiling: boiling
+for: for
+almost: almost
+35: 35
+minutes: minute
+,: ,
+the: the
+water: water
+is: is
+reduced: reduced
+to: to
+two: two
+litres: litre
+.: .
+Then: Then
+I: I
+added: added
+three: three
+coils: coil
+of: of
+egg: egg
+noodles: noodle
+and: and
+cooked: cooked
+until: until
+the: the
+noodles: noodle
+were: were
+soft: soft
+.: .
+I: I
+tried: tried
+the: the
+noodle: noodle
+soup: soup
+,: ,
+and: and
+it: it
+tasted: tasted
+bland: bland
+.: .
+It: It
+felt: felt
+like: like
+this: this
+soup: soup
+was: wa
+missing: missing
+a: a
+lot: lot
+of: of
+things: thing
+.: .
+I: I
+finished: finished
+eating: eating
+the: the
+noodles: noodle
+,: ,
+but: but
+I: I
+still: still
+have: have
+the: the
+breast: breast
+piece: piece
+and: and
+almost: almost
+one: one
+litre: litre
+of: of
+soup: soup
+.: .
+What: What
+can: can
+I: I
+add: add
+more: more
+to: to
+improve: improve
+the: the
+taste: taste
+of: of
+this: this
+soup: soup
+?: ?
+N.B: N.B
+.: .
+I: I
+am: am
+allergic: allergic
+to: to
+bell: bell
+peppers: pepper
+or: or
+chili: chili
+peppers: pepper
+.: .

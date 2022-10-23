@@ -1,0 +1,164 @@
+iphone - Cannot find how to duplicate a photo or a video in iOS 16 - Ask Different
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+In previous iOS versions, you could select a photo or a video from your Photos app and duplicate it (so you can edit it and try filters on it without risking to delete the original file, for example):
+
+However, I cannot find this option in iOS 16:
+
+Where did the option to duplicate a video or photo go?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nIn previous iOS versions, you could select a photo or a video from your Photos app and duplicate it (so you can edit it and try filters on it without risking to delete the original file, for example):\n\nHowever, I cannot find this option in iOS 16:\n\nWhere did the option to duplicate a video or photo go?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'a': 3, 'it': 3, 'you': 2, 'or': 2, 'and': 2, 'can': 2, 'to': 2, 'the': 2, 'from': 1, 'your': 1, 'so': 1, 'on': 1, 'for': 1, 'not': 1, 'this': 1, 'in': 1, 'did': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+In: in
+previous: previou
+iOS: io
+versions: version
+,: ,
+you: you
+could: could
+select: select
+a: a
+photo: photo
+or: or
+a: a
+video: video
+from: from
+your: your
+Photos: photo
+app: app
+and: and
+duplicate: duplic
+it: it
+(: (
+so: so
+you: you
+can: can
+edit: edit
+it: it
+and: and
+try: tri
+filters: filter
+on: on
+it: it
+without: without
+risking: risk
+to: to
+delete: delet
+the: the
+original: origin
+file: file
+,: ,
+for: for
+example: exampl
+): )
+:: :
+However: howev
+,: ,
+I: i
+can: can
+not: not
+find: find
+this: thi
+option: option
+in: in
+iOS: io
+16: 16
+:: :
+Where: where
+did: did
+the: the
+option: option
+to: to
+duplicate: duplic
+a: a
+video: video
+or: or
+photo: photo
+go: go
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+In: In
+previous: previous
+iOS: iOS
+versions: version
+,: ,
+you: you
+could: could
+select: select
+a: a
+photo: photo
+or: or
+a: a
+video: video
+from: from
+your: your
+Photos: Photos
+app: app
+and: and
+duplicate: duplicate
+it: it
+(: (
+so: so
+you: you
+can: can
+edit: edit
+it: it
+and: and
+try: try
+filters: filter
+on: on
+it: it
+without: without
+risking: risking
+to: to
+delete: delete
+the: the
+original: original
+file: file
+,: ,
+for: for
+example: example
+): )
+:: :
+However: However
+,: ,
+I: I
+can: can
+not: not
+find: find
+this: this
+option: option
+in: in
+iOS: iOS
+16: 16
+:: :
+Where: Where
+did: did
+the: the
+option: option
+to: to
+duplicate: duplicate
+a: a
+video: video
+or: or
+photo: photo
+go: go
+?: ?

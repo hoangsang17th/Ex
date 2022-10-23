@@ -1,0 +1,69 @@
+halacha - Can Jews Eat Hybrid Foods? - Mi Yodeya
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+Are Jews allowed to eat crops and animals that have been hybridized? Whether crossbred themselves or by a non-native?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nAre Jews allowed to eat crops and animals that have been hybridized?'
+b'Whether crossbred themselves or by a non-native?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'to': 1, 'and': 1, 'that': 1, 'have': 1, 'been': 1, 'themselves': 1, 'or': 1, 'by': 1, 'a': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+Are: are
+Jews: jew
+allowed: allow
+to: to
+eat: eat
+crops: crop
+and: and
+animals: anim
+that: that
+have: have
+been: been
+hybridized: hybrid
+?: ?
+Whether: whether
+crossbred: crossbr
+themselves: themselv
+or: or
+by: by
+a: a
+non-native: non-n
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+Are: Are
+Jews: Jews
+allowed: allowed
+to: to
+eat: eat
+crops: crop
+and: and
+animals: animal
+that: that
+have: have
+been: been
+hybridized: hybridized
+?: ?
+Whether: Whether
+crossbred: crossbred
+themselves: themselves
+or: or
+by: by
+a: a
+non-native: non-native
+?: ?

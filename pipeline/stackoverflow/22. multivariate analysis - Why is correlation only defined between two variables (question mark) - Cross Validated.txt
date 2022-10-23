@@ -1,0 +1,336 @@
+multivariate analysis - Why is correlation only defined between two variables? - Cross Validated
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+I am an MBA student is taking statistics courses.
+Our statistics prof was teaching us about correlations in statistics. We learned about Pearson's Correlation of Coefficient which is defined as the correlation between only two variables.
+I am asked the prof if the correlation can be calculated between more than two variables and he said "no". But I am struggling to understand why this is the case?
+For example: Hurricanes are correlated with Wind Speed, Hurricanes are also correlated with Temperature - Although I am not a meteorologist don't actually know if this is true (I just assumed this to show a point), we can see that in theory more than two variables can be correlated.
+Therefore, why do we only evaluate the correlation between two variables and not more than two variables?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nI am an MBA student is taking statistics courses.'
+b'Our statistics prof was teaching us about correlations in statistics.'
+b"We learned about Pearson's Correlation of Coefficient which is defined as the correlation between only two variables."
+b'I am asked the prof if the correlation can be calculated between more than two variables and he said "no".'
+b'But I am struggling to understand why this is the case?'
+b"For example: Hurricanes are correlated with Wind Speed, Hurricanes are also correlated with Temperature - Although I am not a meteorologist don't actually know if this is true (I just assumed this to show a point), we can see that in theory more than two variables can be correlated."
+b'Therefore, why do we only evaluate the correlation between two variables and not more than two variables?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'the': 5, 'am': 4, 'is': 4, 'between': 3, 'can': 3, 'more': 3, 'than': 3, 'this': 3, 'about': 2, 'in': 2, 'only': 2, 'if': 2, 'be': 2, 'and': 2, 'to': 2, 'why': 2, 'are': 2, 'with': 2, 'not': 2, 'a': 2, 'do': 2, 'we': 2, 'an': 1, 'was': 1, 'of': 1, 'which': 1, 'as': 1, 'he': 1, 'no': 1, 'just': 1, 'that': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+I: i
+am: am
+an: an
+MBA: mba
+student: student
+is: is
+taking: take
+statistics: statist
+courses: cours
+.: .
+Our: our
+statistics: statist
+prof: prof
+was: wa
+teaching: teach
+us: us
+about: about
+correlations: correl
+in: in
+statistics: statist
+.: .
+We: we
+learned: learn
+about: about
+Pearson: pearson
+'s: 's
+Correlation: correl
+of: of
+Coefficient: coeffici
+which: which
+is: is
+defined: defin
+as: as
+the: the
+correlation: correl
+between: between
+only: onli
+two: two
+variables: variabl
+.: .
+I: i
+am: am
+asked: ask
+the: the
+prof: prof
+if: if
+the: the
+correlation: correl
+can: can
+be: be
+calculated: calcul
+between: between
+more: more
+than: than
+two: two
+variables: variabl
+and: and
+he: he
+said: said
+``: ``
+no: no
+'': ''
+.: .
+But: but
+I: i
+am: am
+struggling: struggl
+to: to
+understand: understand
+why: whi
+this: thi
+is: is
+the: the
+case: case
+?: ?
+For: for
+example: exampl
+:: :
+Hurricanes: hurrican
+are: are
+correlated: correl
+with: with
+Wind: wind
+Speed: speed
+,: ,
+Hurricanes: hurrican
+are: are
+also: also
+correlated: correl
+with: with
+Temperature: temperatur
+-: -
+Although: although
+I: i
+am: am
+not: not
+a: a
+meteorologist: meteorologist
+do: do
+n't: n't
+actually: actual
+know: know
+if: if
+this: thi
+is: is
+true: true
+(: (
+I: i
+just: just
+assumed: assum
+this: thi
+to: to
+show: show
+a: a
+point: point
+): )
+,: ,
+we: we
+can: can
+see: see
+that: that
+in: in
+theory: theori
+more: more
+than: than
+two: two
+variables: variabl
+can: can
+be: be
+correlated: correl
+.: .
+Therefore: therefor
+,: ,
+why: whi
+do: do
+we: we
+only: onli
+evaluate: evalu
+the: the
+correlation: correl
+between: between
+two: two
+variables: variabl
+and: and
+not: not
+more: more
+than: than
+two: two
+variables: variabl
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+I: I
+am: am
+an: an
+MBA: MBA
+student: student
+is: is
+taking: taking
+statistics: statistic
+courses: course
+.: .
+Our: Our
+statistics: statistic
+prof: prof
+was: wa
+teaching: teaching
+us: u
+about: about
+correlations: correlation
+in: in
+statistics: statistic
+.: .
+We: We
+learned: learned
+about: about
+Pearson: Pearson
+'s: 's
+Correlation: Correlation
+of: of
+Coefficient: Coefficient
+which: which
+is: is
+defined: defined
+as: a
+the: the
+correlation: correlation
+between: between
+only: only
+two: two
+variables: variable
+.: .
+I: I
+am: am
+asked: asked
+the: the
+prof: prof
+if: if
+the: the
+correlation: correlation
+can: can
+be: be
+calculated: calculated
+between: between
+more: more
+than: than
+two: two
+variables: variable
+and: and
+he: he
+said: said
+``: ``
+no: no
+'': ''
+.: .
+But: But
+I: I
+am: am
+struggling: struggling
+to: to
+understand: understand
+why: why
+this: this
+is: is
+the: the
+case: case
+?: ?
+For: For
+example: example
+:: :
+Hurricanes: Hurricanes
+are: are
+correlated: correlated
+with: with
+Wind: Wind
+Speed: Speed
+,: ,
+Hurricanes: Hurricanes
+are: are
+also: also
+correlated: correlated
+with: with
+Temperature: Temperature
+-: -
+Although: Although
+I: I
+am: am
+not: not
+a: a
+meteorologist: meteorologist
+do: do
+n't: n't
+actually: actually
+know: know
+if: if
+this: this
+is: is
+true: true
+(: (
+I: I
+just: just
+assumed: assumed
+this: this
+to: to
+show: show
+a: a
+point: point
+): )
+,: ,
+we: we
+can: can
+see: see
+that: that
+in: in
+theory: theory
+more: more
+than: than
+two: two
+variables: variable
+can: can
+be: be
+correlated: correlated
+.: .
+Therefore: Therefore
+,: ,
+why: why
+do: do
+we: we
+only: only
+evaluate: evaluate
+the: the
+correlation: correlation
+between: between
+two: two
+variables: variable
+and: and
+not: not
+more: more
+than: than
+two: two
+variables: variable
+?: ?

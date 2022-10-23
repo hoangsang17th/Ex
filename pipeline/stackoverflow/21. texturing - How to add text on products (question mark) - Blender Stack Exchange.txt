@@ -1,0 +1,152 @@
+texturing - How to add text on products? - Blender Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+I want to add texts/labels to the product models I make. How do I do that? Using a Shrinkwrap modifier is one method but it is neither accurate nor satisfying. Another method is UV unwrapping but I don't know how to mix nodes to place texts exactly where I want without compromising the shader node underneath.
+
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nI want to add texts/labels to the product models I make.'
+b'How do I do that?'
+b'Using a Shrinkwrap modifier is one method but it is neither accurate nor satisfying.'
+b"Another method is UV unwrapping but I don't know how to mix nodes to place texts exactly where I want without compromising the shader node underneath."
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'to': 4, 'do': 3, 'is': 3, 'the': 2, 'but': 2, 'that': 1, 'a': 1, 'it': 1, 'nor': 1, 'how': 1, 'where': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+I: i
+want: want
+to: to
+add: add
+texts/labels: texts/label
+to: to
+the: the
+product: product
+models: model
+I: i
+make: make
+.: .
+How: how
+do: do
+I: i
+do: do
+that: that
+?: ?
+Using: use
+a: a
+Shrinkwrap: shrinkwrap
+modifier: modifi
+is: is
+one: one
+method: method
+but: but
+it: it
+is: is
+neither: neither
+accurate: accur
+nor: nor
+satisfying: satisfi
+.: .
+Another: anoth
+method: method
+is: is
+UV: uv
+unwrapping: unwrap
+but: but
+I: i
+do: do
+n't: n't
+know: know
+how: how
+to: to
+mix: mix
+nodes: node
+to: to
+place: place
+texts: text
+exactly: exactli
+where: where
+I: i
+want: want
+without: without
+compromising: compromis
+the: the
+shader: shader
+node: node
+underneath: underneath
+.: .
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+I: I
+want: want
+to: to
+add: add
+texts/labels: texts/labels
+to: to
+the: the
+product: product
+models: model
+I: I
+make: make
+.: .
+How: How
+do: do
+I: I
+do: do
+that: that
+?: ?
+Using: Using
+a: a
+Shrinkwrap: Shrinkwrap
+modifier: modifier
+is: is
+one: one
+method: method
+but: but
+it: it
+is: is
+neither: neither
+accurate: accurate
+nor: nor
+satisfying: satisfying
+.: .
+Another: Another
+method: method
+is: is
+UV: UV
+unwrapping: unwrapping
+but: but
+I: I
+do: do
+n't: n't
+know: know
+how: how
+to: to
+mix: mix
+nodes: node
+to: to
+place: place
+texts: text
+exactly: exactly
+where: where
+I: I
+want: want
+without: without
+compromising: compromising
+the: the
+shader: shader
+node: node
+underneath: underneath
+.: .

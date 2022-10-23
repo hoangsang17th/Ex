@@ -1,0 +1,168 @@
+phonetics - Does any language have Final-Obstruent voicing? - Linguistics Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+Some languages such as Georgian for example have final-obstruent devoicing and voiced /b,d,ɡ/ become devoiced to [pʰ,tʰ,kʰ] before voiceless consonants and before a pause, for example the word "ზოგადად" ("zogadad" "generally") has a word-final /d/ which is devoiced to [tʰ].
+does any language have the opposite process?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nSome languages such as Georgian for example have final-obstruent devoicing and voiced /b,d,\xc9\xa1/ become devoiced to [p\xca\xb0,t\xca\xb0,k\xca\xb0] before voiceless consonants and before a pause, for example the word "\xe1\x83\x96\xe1\x83\x9d\xe1\x83\x92\xe1\x83\x90\xe1\x83\x93\xe1\x83\x90\xe1\x83\x93" ("zogadad" "generally") has a word-final /d/ which is devoiced to [t\xca\xb0].'
+b'does any language have the opposite process?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'for': 2, 'have': 2, 'and': 2, 'to': 2, 'before': 2, 'a': 2, 'the': 2, 'such': 1, 'as': 1, 'd': 1, 'has': 1, 'which': 1, 'is': 1, 'does': 1, 'any': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+Some: some
+languages: languag
+such: such
+as: as
+Georgian: georgian
+for: for
+example: exampl
+have: have
+final-obstruent: final-obstru
+devoicing: devoic
+and: and
+voiced: voic
+/b: /b
+,: ,
+d: d
+,: ,
+ɡ/: ɡ/
+become: becom
+devoiced: devoic
+to: to
+[: [
+pʰ: pʰ
+,: ,
+tʰ: tʰ
+,: ,
+kʰ: kʰ
+]: ]
+before: befor
+voiceless: voiceless
+consonants: conson
+and: and
+before: befor
+a: a
+pause: paus
+,: ,
+for: for
+example: exampl
+the: the
+word: word
+``: ``
+ზოგადად: ზოგადად
+'': ''
+(: (
+``: ``
+zogadad: zogadad
+'': ''
+``: ``
+generally: gener
+'': ''
+): )
+has: ha
+a: a
+word-final: word-fin
+/d/: /d/
+which: which
+is: is
+devoiced: devoic
+to: to
+[: [
+tʰ: tʰ
+]: ]
+.: .
+does: doe
+any: ani
+language: languag
+have: have
+the: the
+opposite: opposit
+process: process
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+Some: Some
+languages: language
+such: such
+as: a
+Georgian: Georgian
+for: for
+example: example
+have: have
+final-obstruent: final-obstruent
+devoicing: devoicing
+and: and
+voiced: voiced
+/b: /b
+,: ,
+d: d
+,: ,
+ɡ/: ɡ/
+become: become
+devoiced: devoiced
+to: to
+[: [
+pʰ: pʰ
+,: ,
+tʰ: tʰ
+,: ,
+kʰ: kʰ
+]: ]
+before: before
+voiceless: voiceless
+consonants: consonant
+and: and
+before: before
+a: a
+pause: pause
+,: ,
+for: for
+example: example
+the: the
+word: word
+``: ``
+ზოგადად: ზოგადად
+'': ''
+(: (
+``: ``
+zogadad: zogadad
+'': ''
+``: ``
+generally: generally
+'': ''
+): )
+has: ha
+a: a
+word-final: word-final
+/d/: /d/
+which: which
+is: is
+devoiced: devoiced
+to: to
+[: [
+tʰ: tʰ
+]: ]
+.: .
+does: doe
+any: any
+language: language
+have: have
+the: the
+opposite: opposite
+process: process
+?: ?

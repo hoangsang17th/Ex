@@ -1,0 +1,70 @@
+hardhat - Why are there so many async and await in smart contract tests? - Ethereum Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+What’s the use of async and await and why are there so many of them in smart contact tests?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nWhat\xe2\x80\x99s the use of async and await and why are there so many of them in smart contact tests?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'of': 2, 'and': 2, 's': 1, 'the': 1, 'why': 1, 'are': 1, 'there': 1, 'so': 1, 'them': 1, 'in': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+What: what
+’: ’
+s: s
+the: the
+use: use
+of: of
+async: async
+and: and
+await: await
+and: and
+why: whi
+are: are
+there: there
+so: so
+many: mani
+of: of
+them: them
+in: in
+smart: smart
+contact: contact
+tests: test
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+What: What
+’: ’
+s: s
+the: the
+use: use
+of: of
+async: async
+and: and
+await: await
+and: and
+why: why
+are: are
+there: there
+so: so
+many: many
+of: of
+them: them
+in: in
+smart: smart
+contact: contact
+tests: test
+?: ?

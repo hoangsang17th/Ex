@@ -1,0 +1,99 @@
+united kingdom - Why don't we see much enthusiasm in the case of other royal families in Europe? - Politics Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+There are many constitutional monarchies in Europe. However, I never see the enthusiasm people show for them as they show for the British royal family and their affairs.
+Why is that?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nThere are many constitutional monarchies in Europe.'
+b'However, I never see the enthusiasm people show for them as they show for the British royal family and their affairs.'
+b'Why is that?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'the': 2, 'for': 2, 'are': 1, 'in': 1, 'them': 1, 'as': 1, 'they': 1, 'and': 1, 'their': 1, 'is': 1, 'that': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+There: there
+are: are
+many: mani
+constitutional: constitut
+monarchies: monarchi
+in: in
+Europe: europ
+.: .
+However: howev
+,: ,
+I: i
+never: never
+see: see
+the: the
+enthusiasm: enthusiasm
+people: peopl
+show: show
+for: for
+them: them
+as: as
+they: they
+show: show
+for: for
+the: the
+British: british
+royal: royal
+family: famili
+and: and
+their: their
+affairs: affair
+.: .
+Why: whi
+is: is
+that: that
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+There: There
+are: are
+many: many
+constitutional: constitutional
+monarchies: monarchy
+in: in
+Europe: Europe
+.: .
+However: However
+,: ,
+I: I
+never: never
+see: see
+the: the
+enthusiasm: enthusiasm
+people: people
+show: show
+for: for
+them: them
+as: a
+they: they
+show: show
+for: for
+the: the
+British: British
+royal: royal
+family: family
+and: and
+their: their
+affairs: affair
+.: .
+Why: Why
+is: is
+that: that
+?: ?

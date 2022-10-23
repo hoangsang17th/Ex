@@ -1,0 +1,234 @@
+22.04 - System keeps asking me to close and update snap-store, running Software Updater does not help - Ask Ubuntu
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+I keep getting notifications like these:
+
+Only the 'n days left' counter keeps decreasing, it started from 14 two weeks ago and is now down to 3.
+What is this and how to get rid of this?
+I run the Software Updater, but it doesn't help. Software Updater installs updates and says that "The software on this computer is up to date", yet the notification keeps appearing. I find this surprising since the Software Updater also says it updates snaps:
+
+How to resolve this issue?
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b"\nI keep getting notifications like these:\n\nOnly the 'n days left' counter keeps decreasing, it started from 14 two weeks ago and is now down to 3."
+b'What is this and how to get rid of this?'
+b"I run the Software Updater, but it doesn't help."
+b'Software Updater installs updates and says that "The software on this computer is up to date", yet the notification keeps appearing.'
+b'I find this surprising since the Software Updater also says it updates snaps:\n\nHow to resolve this issue?'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'this': 5, 'the': 4, 'to': 4, 'it': 3, 'and': 3, 'is': 3, 'these': 1, 'from': 1, 'now': 1, 'down': 1, 'how': 1, 'of': 1, 'but': 1, 'does': 1, 'that': 1, 'on': 1, 'up': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+I: i
+keep: keep
+getting: get
+notifications: notif
+like: like
+these: these
+:: :
+Only: onli
+the: the
+'n: 'n
+days: day
+left: left
+': '
+counter: counter
+keeps: keep
+decreasing: decreas
+,: ,
+it: it
+started: start
+from: from
+14: 14
+two: two
+weeks: week
+ago: ago
+and: and
+is: is
+now: now
+down: down
+to: to
+3: 3
+.: .
+What: what
+is: is
+this: thi
+and: and
+how: how
+to: to
+get: get
+rid: rid
+of: of
+this: thi
+?: ?
+I: i
+run: run
+the: the
+Software: softwar
+Updater: updat
+,: ,
+but: but
+it: it
+does: doe
+n't: n't
+help: help
+.: .
+Software: softwar
+Updater: updat
+installs: instal
+updates: updat
+and: and
+says: say
+that: that
+``: ``
+The: the
+software: softwar
+on: on
+this: thi
+computer: comput
+is: is
+up: up
+to: to
+date: date
+'': ''
+,: ,
+yet: yet
+the: the
+notification: notif
+keeps: keep
+appearing: appear
+.: .
+I: i
+find: find
+this: thi
+surprising: surpris
+since: sinc
+the: the
+Software: softwar
+Updater: updat
+also: also
+says: say
+it: it
+updates: updat
+snaps: snap
+:: :
+How: how
+to: to
+resolve: resolv
+this: thi
+issue: issu
+?: ?
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+I: I
+keep: keep
+getting: getting
+notifications: notification
+like: like
+these: these
+:: :
+Only: Only
+the: the
+'n: 'n
+days: day
+left: left
+': '
+counter: counter
+keeps: keep
+decreasing: decreasing
+,: ,
+it: it
+started: started
+from: from
+14: 14
+two: two
+weeks: week
+ago: ago
+and: and
+is: is
+now: now
+down: down
+to: to
+3: 3
+.: .
+What: What
+is: is
+this: this
+and: and
+how: how
+to: to
+get: get
+rid: rid
+of: of
+this: this
+?: ?
+I: I
+run: run
+the: the
+Software: Software
+Updater: Updater
+,: ,
+but: but
+it: it
+does: doe
+n't: n't
+help: help
+.: .
+Software: Software
+Updater: Updater
+installs: installs
+updates: update
+and: and
+says: say
+that: that
+``: ``
+The: The
+software: software
+on: on
+this: this
+computer: computer
+is: is
+up: up
+to: to
+date: date
+'': ''
+,: ,
+yet: yet
+the: the
+notification: notification
+keeps: keep
+appearing: appearing
+.: .
+I: I
+find: find
+this: this
+surprising: surprising
+since: since
+the: the
+Software: Software
+Updater: Updater
+also: also
+says: say
+it: it
+updates: update
+snaps: snap
+:: :
+How: How
+to: to
+resolve: resolve
+this: this
+issue: issue
+?: ?

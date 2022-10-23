@@ -1,0 +1,226 @@
+visas - Internship in the UK/US as an Italian - Travel Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+I am an Italian citizen currently studying in Germany. I have an Italian passport and an Italian ID. I would like to do an internship in the UK or in the US in the next year. When applying, I have to answer the following questions:
+
+Are you entitled to work in this country?
+Do you now or in the future need the help of the employer to obtain work authorization?
+
+Unfortunately, I don't really know how this works and what I have to choose here.
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nI am an Italian citizen currently studying in Germany.'
+b'I have an Italian passport and an Italian ID.'
+b'I would like to do an internship in the UK or in the US in the next year.'
+b'When applying, I have to answer the following questions:\n\nAre you entitled to work in this country?'
+b'Do you now or in the future need the help of the employer to obtain work authorization?'
+b"Unfortunately, I don't really know how this works and what I have to choose here."
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'the': 7, 'in': 6, 'to': 5, 'an': 4, 'have': 3, 'and': 2, 'do': 2, 'or': 2, 'you': 2, 'this': 2, 'am': 1, 'now': 1, 'of': 1, 'how': 1, 'what': 1, 'here': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+I: i
+am: am
+an: an
+Italian: italian
+citizen: citizen
+currently: current
+studying: studi
+in: in
+Germany: germani
+.: .
+I: i
+have: have
+an: an
+Italian: italian
+passport: passport
+and: and
+an: an
+Italian: italian
+ID: id
+.: .
+I: i
+would: would
+like: like
+to: to
+do: do
+an: an
+internship: internship
+in: in
+the: the
+UK: uk
+or: or
+in: in
+the: the
+US: us
+in: in
+the: the
+next: next
+year: year
+.: .
+When: when
+applying: appli
+,: ,
+I: i
+have: have
+to: to
+answer: answer
+the: the
+following: follow
+questions: question
+:: :
+Are: are
+you: you
+entitled: entitl
+to: to
+work: work
+in: in
+this: thi
+country: countri
+?: ?
+Do: do
+you: you
+now: now
+or: or
+in: in
+the: the
+future: futur
+need: need
+the: the
+help: help
+of: of
+the: the
+employer: employ
+to: to
+obtain: obtain
+work: work
+authorization: author
+?: ?
+Unfortunately: unfortun
+,: ,
+I: i
+do: do
+n't: n't
+really: realli
+know: know
+how: how
+this: thi
+works: work
+and: and
+what: what
+I: i
+have: have
+to: to
+choose: choos
+here: here
+.: .
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+I: I
+am: am
+an: an
+Italian: Italian
+citizen: citizen
+currently: currently
+studying: studying
+in: in
+Germany: Germany
+.: .
+I: I
+have: have
+an: an
+Italian: Italian
+passport: passport
+and: and
+an: an
+Italian: Italian
+ID: ID
+.: .
+I: I
+would: would
+like: like
+to: to
+do: do
+an: an
+internship: internship
+in: in
+the: the
+UK: UK
+or: or
+in: in
+the: the
+US: US
+in: in
+the: the
+next: next
+year: year
+.: .
+When: When
+applying: applying
+,: ,
+I: I
+have: have
+to: to
+answer: answer
+the: the
+following: following
+questions: question
+:: :
+Are: Are
+you: you
+entitled: entitled
+to: to
+work: work
+in: in
+this: this
+country: country
+?: ?
+Do: Do
+you: you
+now: now
+or: or
+in: in
+the: the
+future: future
+need: need
+the: the
+help: help
+of: of
+the: the
+employer: employer
+to: to
+obtain: obtain
+work: work
+authorization: authorization
+?: ?
+Unfortunately: Unfortunately
+,: ,
+I: I
+do: do
+n't: n't
+really: really
+know: know
+how: how
+this: this
+works: work
+and: and
+what: what
+I: I
+have: have
+to: to
+choose: choose
+here: here
+.: .

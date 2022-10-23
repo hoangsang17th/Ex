@@ -1,0 +1,46 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Xin chào",
+                "Bạn khỏe không",
+                "Có ai ở đó không",
+                "Chào bạn",
+                "Chào"
+            ],
+            "responses": [
+                "Chào Sang, tôi có thể giúp gì cho bạn?",
+                "FinFree có thể giúp gì cho bạn không?",
+                "Xin chào, tôi có thể giúp gì cho bạn",
+                "Đằng này xin chòa lại đằng đó nhé"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Tạm biệt",
+                "Hẹn gặp lại",
+                "bye"
+            ],
+            "responses": [
+                "Chào bạn, hẹn gặp lại",
+                "chào bạn",
+                "Quay trở lại sớm nhé"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Cảm ơn",
+                "cơn",
+                "Oki"
+            ],
+            "responses": [
+                "Rất vui khi giúp được bạn",
+                "Oki, chúc bạn một ngày tốt lành",
+                "Không có gì"
+            ]
+        }
+    ]
+}

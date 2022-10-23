@@ -1,0 +1,14 @@
+Mô tả sản phẩmGiới thiệu bộ máy tính Acer AS XC-830 DT.B9XSV.001
+AS XC-830 DT.B9XSV.001 là bộ máy tính phổ thông của Acer, sử dụng CPU Celeron với 8GB bộ nhớ giúp đáp ứng tốt các tác vụ hàng ngày như công việc văn phòng và giải trí nhẹ.
+
+Nói sâu hơn về cấu hình, bên trong AS XC-830 DT.B9XSV.001 gồm:
+
+CPU: sử dụng Intel Celeron J4005 , có tốc độ xử lý lên tới 2.7GHz và 2 nhân xử lý, đảm bảo đáp ứng được các công việc nhẹ nhàng hàng ngày.
+Bộ nhớ: được lắp sẵn bộ nhớ DDR4 với dung lượng 4GB, vừa đủ để sử dụng các ứng dụng văn phòng và lướt web, trong trường hợp cần thêm bộ nhớ, người dùng hoàn toàn có thể gắn thêm 1 thanh RAM 4GB nữa để cải thiện khả năng đa tác vụ của AS XC-830 DT.B9XSV.001.
+Lưu trữ: đi kèm với AS XC-830 DT.B9XSV.001 là 1 chiếc ổ cứng 500GB với tốc độ quay 7200RPM đem lại khả năng lưu trữ lớn đồng thời đảm bảo hiệu năng truy xuất dữ liệu được ổn định
+Đặc biệt, trường hợp người dùng cần gắn thêm 1 chiếc SSD M.2 NVMe thì AS XC-830 DT.B9XSV.001 sẵn sàng hỗ trợ với 1 khe cắm M.2 được tích hợp sẵn trên mainboard, giúp cải thiện thời gian khởi động máy và mở các ứng dụng quan trọng.
+
+
+Ở mặt sau của AS XC-830 DT.B9XSV.001 là 1 cổng xuất hình HDMI và 1 cổng VGA hỗ trợ xuất tín hiệu hình ảnh ra 2 màn hình cùng 1 lúc
+Bên cạnh đó là 4 cổng USB 2.0 giúp cho việc kết nối thiết bị ngoại vi dễ dàng hơn
+Ngoài ra, AS XC-830 DT.B9XSV.001 còn được trang bị thêm 2 cổng USB 3.0 và 1 khe cắm SD card giúp người dùng có thể sao chép dữ liệu 1 cách dễ dàng và thuận tiện nhất.

@@ -1,0 +1,525 @@
+code golf - Calculate Pi unto a point using the Nilakantha series - Code Golf Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+Your task: given a nonzero positive number i, calculate pi using the Nilakantha series unto i terms.
+The Nilakantha series is as follows:
+$$\text 3 + \frac{4}{2*3*4} - \frac{4}{4*5*6}+\frac{4}{6*7*8} - ...$$
+3 is the first term, 4/2*3*4 is the second, -4/4*5*6 is the third, and so on.
+Notice that for the nth term:
+
+$$\text S_1 = 3$$
+$$\text S_n = \frac{4 \times (-1)^n}{2n \times (2n-1) \times (2n-2)}$$
+The approximation of pi by summing up these terms is $$\text S_1 +\text  S_2\text  + … +\text  S_n$$
+
+Test cases:
+In = Out
+
+1 = 3
+2 = 3.16666666667
+3 = 3.13333333333
+4 = 3.1452381
+
+Notice the pattern of the numbers approximating towards pi.
+Floating point issues are OK.
+This is code-golf so shortest answer wins!
+EDIT: by default this is 1-indexed, but if you want 0-indexed no problem, just mention it. And even infinitely printing the approximations with no input is Okay.
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nYour task: given a nonzero positive number i, calculate pi using the Nilakantha series unto i terms.'
+b'The Nilakantha series is as follows:\n$$\\text 3 + \\frac{4}{2*3*4} - \\frac{4}{4*5*6}+\\frac{4}{6*7*8} - ...$$\n3 is the first term, 4/2*3*4 is the second, -4/4*5*6 is the third, and so on.'
+b'Notice that for the nth term:\n\n$$\\text S_1 = 3$$\n$$\\text S_n = \\frac{4 \\times (-1)^n}{2n \\times (2n-1) \\times (2n-2)}$$\nThe approximation of pi by summing up these terms is $$\\text S_1 +\\text  S_2\\text  + \xe2\x80\xa6 +\\text  S_n$$\n\nTest cases:\nIn = Out\n\n1 = 3\n2 = 3.16666666667\n3 = 3.13333333333\n4 = 3.1452381\n\nNotice the pattern of the numbers approximating towards pi.'
+b'Floating point issues are OK.'
+b'This is code-golf so shortest answer wins!'
+b'EDIT: by default this is 1-indexed, but if you want 0-indexed no problem, just mention it.'
+b'And even infinitely printing the approximations with no input is Okay.'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'the': 8, 'is': 8, 'i': 2, 'so': 2, 'of': 2, 'by': 2, 'no': 2, 'a': 1, 'as': 1, 'and': 1, 'on': 1, 'that': 1, 'for': 1, 'up': 1, 'these': 1, 'are': 1, 'this': 1, 'but': 1, 'if': 1, 'you': 1, 'just': 1, 'it': 1, 'with': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+Your: your
+task: task
+:: :
+given: given
+a: a
+nonzero: nonzero
+positive: posit
+number: number
+i: i
+,: ,
+calculate: calcul
+pi: pi
+using: use
+the: the
+Nilakantha: nilakantha
+series: seri
+unto: unto
+i: i
+terms: term
+.: .
+The: the
+Nilakantha: nilakantha
+series: seri
+is: is
+as: as
+follows: follow
+:: :
+$: $
+$: $
+\text: \text
+3: 3
++: +
+\frac: \frac
+{: {
+4: 4
+}: }
+{: {
+2: 2
+*: *
+3: 3
+*: *
+4: 4
+}: }
+-: -
+\frac: \frac
+{: {
+4: 4
+}: }
+{: {
+4: 4
+*: *
+5: 5
+*: *
+6: 6
+}: }
++\frac: +\frac
+{: {
+4: 4
+}: }
+{: {
+6: 6
+*: *
+7: 7
+*: *
+8: 8
+}: }
+-: -
+...: ...
+$: $
+$: $
+3: 3
+is: is
+the: the
+first: first
+term: term
+,: ,
+4/2: 4/2
+*: *
+3: 3
+*: *
+4: 4
+is: is
+the: the
+second: second
+,: ,
+-4/4: -4/4
+*: *
+5: 5
+*: *
+6: 6
+is: is
+the: the
+third: third
+,: ,
+and: and
+so: so
+on: on
+.: .
+Notice: notic
+that: that
+for: for
+the: the
+nth: nth
+term: term
+:: :
+$: $
+$: $
+\text: \text
+S_1: s_1
+=: =
+3: 3
+$: $
+$: $
+$: $
+$: $
+\text: \text
+S_n: s_n
+=: =
+\frac: \frac
+{: {
+4: 4
+\times: \time
+(: (
+-1: -1
+): )
+^n: ^n
+}: }
+{: {
+2n: 2n
+\times: \time
+(: (
+2n-1: 2n-1
+): )
+\times: \time
+(: (
+2n-2: 2n-2
+): )
+}: }
+$: $
+$: $
+The: the
+approximation: approxim
+of: of
+pi: pi
+by: by
+summing: sum
+up: up
+these: these
+terms: term
+is: is
+$: $
+$: $
+\text: \text
+S_1: s_1
++\text: +\text
+S_2\text: s_2\text
++: +
+…: …
++\text: +\text
+S_n: s_n
+$: $
+$: $
+Test: test
+cases: case
+:: :
+In: in
+=: =
+Out: out
+1: 1
+=: =
+3: 3
+2: 2
+=: =
+3.16666666667: 3.16666666667
+3: 3
+=: =
+3.13333333333: 3.13333333333
+4: 4
+=: =
+3.1452381: 3.1452381
+Notice: notic
+the: the
+pattern: pattern
+of: of
+the: the
+numbers: number
+approximating: approxim
+towards: toward
+pi: pi
+.: .
+Floating: float
+point: point
+issues: issu
+are: are
+OK: ok
+.: .
+This: thi
+is: is
+code-golf: code-golf
+so: so
+shortest: shortest
+answer: answer
+wins: win
+!: !
+EDIT: edit
+:: :
+by: by
+default: default
+this: thi
+is: is
+1-indexed: 1-index
+,: ,
+but: but
+if: if
+you: you
+want: want
+0-indexed: 0-index
+no: no
+problem: problem
+,: ,
+just: just
+mention: mention
+it: it
+.: .
+And: and
+even: even
+infinitely: infinit
+printing: print
+the: the
+approximations: approxim
+with: with
+no: no
+input: input
+is: is
+Okay: okay
+.: .
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+Your: Your
+task: task
+:: :
+given: given
+a: a
+nonzero: nonzero
+positive: positive
+number: number
+i: i
+,: ,
+calculate: calculate
+pi: pi
+using: using
+the: the
+Nilakantha: Nilakantha
+series: series
+unto: unto
+i: i
+terms: term
+.: .
+The: The
+Nilakantha: Nilakantha
+series: series
+is: is
+as: a
+follows: follows
+:: :
+$: $
+$: $
+\text: \text
+3: 3
++: +
+\frac: \frac
+{: {
+4: 4
+}: }
+{: {
+2: 2
+*: *
+3: 3
+*: *
+4: 4
+}: }
+-: -
+\frac: \frac
+{: {
+4: 4
+}: }
+{: {
+4: 4
+*: *
+5: 5
+*: *
+6: 6
+}: }
++\frac: +\frac
+{: {
+4: 4
+}: }
+{: {
+6: 6
+*: *
+7: 7
+*: *
+8: 8
+}: }
+-: -
+...: ...
+$: $
+$: $
+3: 3
+is: is
+the: the
+first: first
+term: term
+,: ,
+4/2: 4/2
+*: *
+3: 3
+*: *
+4: 4
+is: is
+the: the
+second: second
+,: ,
+-4/4: -4/4
+*: *
+5: 5
+*: *
+6: 6
+is: is
+the: the
+third: third
+,: ,
+and: and
+so: so
+on: on
+.: .
+Notice: Notice
+that: that
+for: for
+the: the
+nth: nth
+term: term
+:: :
+$: $
+$: $
+\text: \text
+S_1: S_1
+=: =
+3: 3
+$: $
+$: $
+$: $
+$: $
+\text: \text
+S_n: S_n
+=: =
+\frac: \frac
+{: {
+4: 4
+\times: \times
+(: (
+-1: -1
+): )
+^n: ^n
+}: }
+{: {
+2n: 2n
+\times: \times
+(: (
+2n-1: 2n-1
+): )
+\times: \times
+(: (
+2n-2: 2n-2
+): )
+}: }
+$: $
+$: $
+The: The
+approximation: approximation
+of: of
+pi: pi
+by: by
+summing: summing
+up: up
+these: these
+terms: term
+is: is
+$: $
+$: $
+\text: \text
+S_1: S_1
++\text: +\text
+S_2\text: S_2\text
++: +
+…: …
++\text: +\text
+S_n: S_n
+$: $
+$: $
+Test: Test
+cases: case
+:: :
+In: In
+=: =
+Out: Out
+1: 1
+=: =
+3: 3
+2: 2
+=: =
+3.16666666667: 3.16666666667
+3: 3
+=: =
+3.13333333333: 3.13333333333
+4: 4
+=: =
+3.1452381: 3.1452381
+Notice: Notice
+the: the
+pattern: pattern
+of: of
+the: the
+numbers: number
+approximating: approximating
+towards: towards
+pi: pi
+.: .
+Floating: Floating
+point: point
+issues: issue
+are: are
+OK: OK
+.: .
+This: This
+is: is
+code-golf: code-golf
+so: so
+shortest: shortest
+answer: answer
+wins: win
+!: !
+EDIT: EDIT
+:: :
+by: by
+default: default
+this: this
+is: is
+1-indexed: 1-indexed
+,: ,
+but: but
+if: if
+you: you
+want: want
+0-indexed: 0-indexed
+no: no
+problem: problem
+,: ,
+just: just
+mention: mention
+it: it
+.: .
+And: And
+even: even
+infinitely: infinitely
+printing: printing
+the: the
+approximations: approximation
+with: with
+no: no
+input: input
+is: is
+Okay: Okay
+.: .

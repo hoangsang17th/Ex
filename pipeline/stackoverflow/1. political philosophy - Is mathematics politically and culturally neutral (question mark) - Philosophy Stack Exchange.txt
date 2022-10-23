@@ -1,0 +1,245 @@
+political philosophy - Is mathematics politically and culturally neutral? - Philosophy Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+Lately, there have been many people who say that mathematics itself is racist, that it is simply a creation of dead white Greek men. As a mathematician, I strongly disagree, and believe that mathematics transcends any particular culture or political system. For example, while the Arabs invented algebra, algebra is not itself Arabic, but universal. Perhaps, however, as a mathematician I am simply biased. That raises the question, is mathematics politically and culturally neutral? I would love to hear good arguments that challenge my position that mathematics is apolitical and acultural.
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nLately, there have been many people who say that mathematics itself is racist, that it is simply a creation of dead white Greek men.'
+b'As a mathematician, I strongly disagree, and believe that mathematics transcends any particular culture or political system.'
+b'For example, while the Arabs invented algebra, algebra is not itself Arabic, but universal.'
+b'Perhaps, however, as a mathematician I am simply biased.'
+b'That raises the question, is mathematics politically and culturally neutral?'
+b'I would love to hear good arguments that challenge my position that mathematics is apolitical and acultural.'
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'that': 5, 'is': 5, 'a': 3, 'and': 3, 'itself': 2, 'the': 2, 'there': 1, 'have': 1, 'been': 1, 'who': 1, 'it': 1, 'of': 1, 'any': 1, 'or': 1, 'while': 1, 'not': 1, 'but': 1, 'as': 1, 'am': 1, 'to': 1, 'my': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+Lately: late
+,: ,
+there: there
+have: have
+been: been
+many: mani
+people: peopl
+who: who
+say: say
+that: that
+mathematics: mathemat
+itself: itself
+is: is
+racist: racist
+,: ,
+that: that
+it: it
+is: is
+simply: simpli
+a: a
+creation: creation
+of: of
+dead: dead
+white: white
+Greek: greek
+men: men
+.: .
+As: as
+a: a
+mathematician: mathematician
+,: ,
+I: i
+strongly: strongli
+disagree: disagre
+,: ,
+and: and
+believe: believ
+that: that
+mathematics: mathemat
+transcends: transcend
+any: ani
+particular: particular
+culture: cultur
+or: or
+political: polit
+system: system
+.: .
+For: for
+example: exampl
+,: ,
+while: while
+the: the
+Arabs: arab
+invented: invent
+algebra: algebra
+,: ,
+algebra: algebra
+is: is
+not: not
+itself: itself
+Arabic: arab
+,: ,
+but: but
+universal: univers
+.: .
+Perhaps: perhap
+,: ,
+however: howev
+,: ,
+as: as
+a: a
+mathematician: mathematician
+I: i
+am: am
+simply: simpli
+biased: bias
+.: .
+That: that
+raises: rais
+the: the
+question: question
+,: ,
+is: is
+mathematics: mathemat
+politically: polit
+and: and
+culturally: cultur
+neutral: neutral
+?: ?
+I: i
+would: would
+love: love
+to: to
+hear: hear
+good: good
+arguments: argument
+that: that
+challenge: challeng
+my: my
+position: posit
+that: that
+mathematics: mathemat
+is: is
+apolitical: apolit
+and: and
+acultural: acultur
+.: .
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+Lately: Lately
+,: ,
+there: there
+have: have
+been: been
+many: many
+people: people
+who: who
+say: say
+that: that
+mathematics: mathematics
+itself: itself
+is: is
+racist: racist
+,: ,
+that: that
+it: it
+is: is
+simply: simply
+a: a
+creation: creation
+of: of
+dead: dead
+white: white
+Greek: Greek
+men: men
+.: .
+As: As
+a: a
+mathematician: mathematician
+,: ,
+I: I
+strongly: strongly
+disagree: disagree
+,: ,
+and: and
+believe: believe
+that: that
+mathematics: mathematics
+transcends: transcends
+any: any
+particular: particular
+culture: culture
+or: or
+political: political
+system: system
+.: .
+For: For
+example: example
+,: ,
+while: while
+the: the
+Arabs: Arabs
+invented: invented
+algebra: algebra
+,: ,
+algebra: algebra
+is: is
+not: not
+itself: itself
+Arabic: Arabic
+,: ,
+but: but
+universal: universal
+.: .
+Perhaps: Perhaps
+,: ,
+however: however
+,: ,
+as: a
+a: a
+mathematician: mathematician
+I: I
+am: am
+simply: simply
+biased: biased
+.: .
+That: That
+raises: raise
+the: the
+question: question
+,: ,
+is: is
+mathematics: mathematics
+politically: politically
+and: and
+culturally: culturally
+neutral: neutral
+?: ?
+I: I
+would: would
+love: love
+to: to
+hear: hear
+good: good
+arguments: argument
+that: that
+challenge: challenge
+my: my
+position: position
+that: that
+mathematics: mathematics
+is: is
+apolitical: apolitical
+and: and
+acultural: acultural
+.: .

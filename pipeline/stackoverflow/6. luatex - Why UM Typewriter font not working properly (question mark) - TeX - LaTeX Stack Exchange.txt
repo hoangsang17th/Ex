@@ -1,0 +1,740 @@
+luatex - Why UM Typewriter font not working properly? - TeX - LaTeX Stack Exchange
+################ Hoàng Sang ##################
+The text is written in the language: en
+################ Hoàng Sang ##################
+Phân từ cho văn bản tiếng Việt: (Bời vì truy vấn trong trang stackoverflow có khá ít nội dung tiếng việt nên em sử dụng một đoạn văn khác để thay thế)
+['Phân', 'từ', 'cho', 'văn bản', 'tiếng', 'Việt', ':', '(', 'Bời', 'vì', 'truy vấn', 'trong', 'trang', 'stackoverflow', 'có', 'khá', 'ít', 'nội dung', 'tiếng', 'việt', 'nên', 'em', 'sử dụng', 'một', 'đoạn', 'văn', 'khác', 'để', 'thay thế', ')']
+################ Hoàng Sang ##################
+This is the original text:
+
+I compiled this code
+\documentclass{article}
+
+\usepackage{minted, fontspec}
+
+\setmonofont{UM Typewriter} %% <--- some problems here (see the next comment). To solve comment it out.
+
+\begin{document}
+
+%% $ sign overlaps a
+\begin{minted}{R}
+# print(acf(wind_speed, lag.max = lag, plot = FALSE)$acf) 
+\end{minted}
+    
+\begin{minted}{R}
+print(acf(wind_speed, lag.max = lag, plot = FALSE)$acf)
+\end{minted}
+    
+\begin{minted}{R}
+# print(acf(wind_speed, lag.max = lag, plot = FALSE)$ acf)
+\end{minted}
+
+\end{document}
+
+
+whith
+latexmk -interaction=nonstopmode -shell-escape -synctex=1 -lualatex foo.tex
+
+and this is the result
+So for my purpose as workaround I added a space between $ and acf. But I think it is a weak solution, is there another robust? Are there other cases where this bug rises?
+Thanks in advance,
+Lorenzo.
+Edit
+If I change code like below Marcel's answer doesn't work.
+\documentclass{toptesi} %% <--- I changed THIS
+\usepackage{fontspec}
+
+% First define the feature. We set the width to the width of the space since the font is monospace
+\directlua{
+  fonts.constructors.features.otf.register{
+    name = 'fix_umt_width',
+    description = 'Overwrite width value of dollar in UM Typewriter',
+    manipulators = {
+      node = function(tfmdata)
+        tfmdata.characters[\number`\$].width=tfmdata.parameters.space
+      end,
+    },
+  }
+}
+
+% Then use it in the fontspec call
+\setmonofont[RawFeature=+fix_umt_width]{UM Typewriter}
+
+\begin{document}
+
+\textit{\texttt{\string$acf}}
+
+\end{document}
+
+
+
+################ Hoàng Sang ##################
+This is the text that has been Unicode Normalization: 
+
+
+b'\nI compiled this code\n\\documentclass{article}\n\n\\usepackage{minted, fontspec}\n\n\\setmonofont{UM Typewriter} %% <--- some problems here (see the next comment).'
+b'To solve comment it out.'
+b'\\begin{document}\n\n%% $ sign overlaps a\n\\begin{minted}{R}\n# print(acf(wind_speed, lag.max = lag, plot = FALSE)$acf) \n\\end{minted}\n    \n\\begin{minted}{R}\nprint(acf(wind_speed, lag.max = lag, plot = FALSE)$acf)\n\\end{minted}\n    \n\\begin{minted}{R}\n# print(acf(wind_speed, lag.max = lag, plot = FALSE)$ acf)\n\\end{minted}\n\n\\end{document}\n\n\nwhith\nlatexmk -interaction=nonstopmode -shell-escape -synctex=1 -lualatex foo.tex\n\nand this is the result\nSo for my purpose as workaround I added a space between $ and acf.'
+b'But I think it is a weak solution, is there another robust?'
+b'Are there other cases where this bug rises?'
+b'Thanks in advance,\nLorenzo.'
+b"Edit\nIf I change code like below Marcel's answer doesn't work."
+b'\\documentclass{toptesi} %% <--- I changed THIS\n\\usepackage{fontspec}\n\n% First define the feature.'
+b"We set the width to the width of the space since the font is monospace\n\\directlua{\n  fonts.constructors.features.otf.register{\n    name = 'fix_umt_width',\n    description = 'Overwrite width value of dollar in UM Typewriter',\n    manipulators = {\n      node = function(tfmdata)\n        tfmdata.characters[\\number`\\$].width=tfmdata.parameters.space\n      end,\n    },\n  }\n}\n\n% Then use it in the fontspec call\n\\setmonofont[RawFeature=+fix_umt_width]{UM Typewriter}\n\n\\begin{document}\n\n\\textit{\\texttt{\\string$acf}}\n\n\\end{document}"
+
+################ Hoàng Sang ##################
+Count and sorted stopWords: 
+{'the': 8, 'is': 4, 'this': 3, 'it': 3, 'a': 3, 'in': 3, 'and': 2, 'there': 2, 'of': 2, 'some': 1, 'here': 1, 'out': 1, 'for': 1, 'my': 1, 'as': 1, 'between': 1, 'other': 1, 'where': 1, 'below': 1, 'does': 1, 'to': 1}
+################ Hoàng Sang ##################
+STEMMING: 
+I: i
+compiled: compil
+this: thi
+code: code
+\documentclass: \documentclass
+{: {
+article: articl
+}: }
+\usepackage: \usepackag
+{: {
+minted: mint
+,: ,
+fontspec: fontspec
+}: }
+\setmonofont: \setmonofont
+{: {
+UM: um
+Typewriter: typewrit
+}: }
+%: %
+%: %
+<: <
+--: --
+-: -
+some: some
+problems: problem
+here: here
+(: (
+see: see
+the: the
+next: next
+comment: comment
+): )
+.: .
+To: to
+solve: solv
+comment: comment
+it: it
+out: out
+.: .
+\begin: \begin
+{: {
+document: document
+}: }
+%: %
+%: %
+$: $
+sign: sign
+overlaps: overlap
+a: a
+\begin: \begin
+{: {
+minted: mint
+}: }
+{: {
+R: r
+}: }
+#: #
+print: print
+(: (
+acf: acf
+(: (
+wind_speed: wind_spe
+,: ,
+lag.max: lag.max
+=: =
+lag: lag
+,: ,
+plot: plot
+=: =
+FALSE: fals
+): )
+$: $
+acf: acf
+): )
+\end: \end
+{: {
+minted: mint
+}: }
+\begin: \begin
+{: {
+minted: mint
+}: }
+{: {
+R: r
+}: }
+print: print
+(: (
+acf: acf
+(: (
+wind_speed: wind_spe
+,: ,
+lag.max: lag.max
+=: =
+lag: lag
+,: ,
+plot: plot
+=: =
+FALSE: fals
+): )
+$: $
+acf: acf
+): )
+\end: \end
+{: {
+minted: mint
+}: }
+\begin: \begin
+{: {
+minted: mint
+}: }
+{: {
+R: r
+}: }
+#: #
+print: print
+(: (
+acf: acf
+(: (
+wind_speed: wind_spe
+,: ,
+lag.max: lag.max
+=: =
+lag: lag
+,: ,
+plot: plot
+=: =
+FALSE: fals
+): )
+$: $
+acf: acf
+): )
+\end: \end
+{: {
+minted: mint
+}: }
+\end: \end
+{: {
+document: document
+}: }
+whith: whith
+latexmk: latexmk
+-interaction=nonstopmode: -interaction=nonstopmod
+-shell-escape: -shell-escap
+-synctex=1: -synctex=1
+-lualatex: -lualatex
+foo.tex: foo.tex
+and: and
+this: thi
+is: is
+the: the
+result: result
+So: so
+for: for
+my: my
+purpose: purpos
+as: as
+workaround: workaround
+I: i
+added: ad
+a: a
+space: space
+between: between
+$: $
+and: and
+acf: acf
+.: .
+But: but
+I: i
+think: think
+it: it
+is: is
+a: a
+weak: weak
+solution: solut
+,: ,
+is: is
+there: there
+another: anoth
+robust: robust
+?: ?
+Are: are
+there: there
+other: other
+cases: case
+where: where
+this: thi
+bug: bug
+rises: rise
+?: ?
+Thanks: thank
+in: in
+advance: advanc
+,: ,
+Lorenzo: lorenzo
+.: .
+Edit: edit
+If: if
+I: i
+change: chang
+code: code
+like: like
+below: below
+Marcel: marcel
+'s: 's
+answer: answer
+does: doe
+n't: n't
+work: work
+.: .
+\documentclass: \documentclass
+{: {
+toptesi: toptesi
+}: }
+%: %
+%: %
+<: <
+--: --
+-: -
+I: i
+changed: chang
+THIS: thi
+\usepackage: \usepackag
+{: {
+fontspec: fontspec
+}: }
+%: %
+First: first
+define: defin
+the: the
+feature: featur
+.: .
+We: we
+set: set
+the: the
+width: width
+to: to
+the: the
+width: width
+of: of
+the: the
+space: space
+since: sinc
+the: the
+font: font
+is: is
+monospace: monospac
+\directlua: \directlua
+{: {
+fonts.constructors.features.otf.register: fonts.constructors.features.otf.regist
+{: {
+name: name
+=: =
+'fix_umt_width: 'fix_umt_width
+': '
+,: ,
+description: descript
+=: =
+'Overwrite: 'overwrit
+width: width
+value: valu
+of: of
+dollar: dollar
+in: in
+UM: um
+Typewriter: typewrit
+': '
+,: ,
+manipulators: manipul
+=: =
+{: {
+node: node
+=: =
+function: function
+(: (
+tfmdata: tfmdata
+): )
+tfmdata.characters: tfmdata.charact
+[: [
+\number: \number
+`: `
+\: \
+$: $
+]: ]
+.width=tfmdata.parameters.space: .width=tfmdata.parameters.spac
+end: end
+,: ,
+}: }
+,: ,
+}: }
+}: }
+%: %
+Then: then
+use: use
+it: it
+in: in
+the: the
+fontspec: fontspec
+call: call
+\setmonofont: \setmonofont
+[: [
+RawFeature=+fix_umt_width: rawfeature=+fix_umt_width
+]: ]
+{: {
+UM: um
+Typewriter: typewrit
+}: }
+\begin: \begin
+{: {
+document: document
+}: }
+\textit: \textit
+{: {
+\texttt: \texttt
+{: {
+\string: \string
+$: $
+acf: acf
+}: }
+}: }
+\end: \end
+{: {
+document: document
+}: }
+
+################ Hoàng Sang ##################
+LEMMATIZATION: 
+I: I
+compiled: compiled
+this: this
+code: code
+\documentclass: \documentclass
+{: {
+article: article
+}: }
+\usepackage: \usepackage
+{: {
+minted: minted
+,: ,
+fontspec: fontspec
+}: }
+\setmonofont: \setmonofont
+{: {
+UM: UM
+Typewriter: Typewriter
+}: }
+%: %
+%: %
+<: <
+--: --
+-: -
+some: some
+problems: problem
+here: here
+(: (
+see: see
+the: the
+next: next
+comment: comment
+): )
+.: .
+To: To
+solve: solve
+comment: comment
+it: it
+out: out
+.: .
+\begin: \begin
+{: {
+document: document
+}: }
+%: %
+%: %
+$: $
+sign: sign
+overlaps: overlap
+a: a
+\begin: \begin
+{: {
+minted: minted
+}: }
+{: {
+R: R
+}: }
+#: #
+print: print
+(: (
+acf: acf
+(: (
+wind_speed: wind_speed
+,: ,
+lag.max: lag.max
+=: =
+lag: lag
+,: ,
+plot: plot
+=: =
+FALSE: FALSE
+): )
+$: $
+acf: acf
+): )
+\end: \end
+{: {
+minted: minted
+}: }
+\begin: \begin
+{: {
+minted: minted
+}: }
+{: {
+R: R
+}: }
+print: print
+(: (
+acf: acf
+(: (
+wind_speed: wind_speed
+,: ,
+lag.max: lag.max
+=: =
+lag: lag
+,: ,
+plot: plot
+=: =
+FALSE: FALSE
+): )
+$: $
+acf: acf
+): )
+\end: \end
+{: {
+minted: minted
+}: }
+\begin: \begin
+{: {
+minted: minted
+}: }
+{: {
+R: R
+}: }
+#: #
+print: print
+(: (
+acf: acf
+(: (
+wind_speed: wind_speed
+,: ,
+lag.max: lag.max
+=: =
+lag: lag
+,: ,
+plot: plot
+=: =
+FALSE: FALSE
+): )
+$: $
+acf: acf
+): )
+\end: \end
+{: {
+minted: minted
+}: }
+\end: \end
+{: {
+document: document
+}: }
+whith: whith
+latexmk: latexmk
+-interaction=nonstopmode: -interaction=nonstopmode
+-shell-escape: -shell-escape
+-synctex=1: -synctex=1
+-lualatex: -lualatex
+foo.tex: foo.tex
+and: and
+this: this
+is: is
+the: the
+result: result
+So: So
+for: for
+my: my
+purpose: purpose
+as: a
+workaround: workaround
+I: I
+added: added
+a: a
+space: space
+between: between
+$: $
+and: and
+acf: acf
+.: .
+But: But
+I: I
+think: think
+it: it
+is: is
+a: a
+weak: weak
+solution: solution
+,: ,
+is: is
+there: there
+another: another
+robust: robust
+?: ?
+Are: Are
+there: there
+other: other
+cases: case
+where: where
+this: this
+bug: bug
+rises: rise
+?: ?
+Thanks: Thanks
+in: in
+advance: advance
+,: ,
+Lorenzo: Lorenzo
+.: .
+Edit: Edit
+If: If
+I: I
+change: change
+code: code
+like: like
+below: below
+Marcel: Marcel
+'s: 's
+answer: answer
+does: doe
+n't: n't
+work: work
+.: .
+\documentclass: \documentclass
+{: {
+toptesi: toptesi
+}: }
+%: %
+%: %
+<: <
+--: --
+-: -
+I: I
+changed: changed
+THIS: THIS
+\usepackage: \usepackage
+{: {
+fontspec: fontspec
+}: }
+%: %
+First: First
+define: define
+the: the
+feature: feature
+.: .
+We: We
+set: set
+the: the
+width: width
+to: to
+the: the
+width: width
+of: of
+the: the
+space: space
+since: since
+the: the
+font: font
+is: is
+monospace: monospace
+\directlua: \directlua
+{: {
+fonts.constructors.features.otf.register: fonts.constructors.features.otf.register
+{: {
+name: name
+=: =
+'fix_umt_width: 'fix_umt_width
+': '
+,: ,
+description: description
+=: =
+'Overwrite: 'Overwrite
+width: width
+value: value
+of: of
+dollar: dollar
+in: in
+UM: UM
+Typewriter: Typewriter
+': '
+,: ,
+manipulators: manipulator
+=: =
+{: {
+node: node
+=: =
+function: function
+(: (
+tfmdata: tfmdata
+): )
+tfmdata.characters: tfmdata.characters
+[: [
+\number: \number
+`: `
+\: \
+$: $
+]: ]
+.width=tfmdata.parameters.space: .width=tfmdata.parameters.space
+end: end
+,: ,
+}: }
+,: ,
+}: }
+}: }
+%: %
+Then: Then
+use: use
+it: it
+in: in
+the: the
+fontspec: fontspec
+call: call
+\setmonofont: \setmonofont
+[: [
+RawFeature=+fix_umt_width: RawFeature=+fix_umt_width
+]: ]
+{: {
+UM: UM
+Typewriter: Typewriter
+}: }
+\begin: \begin
+{: {
+document: document
+}: }
+\textit: \textit
+{: {
+\texttt: \texttt
+{: {
+\string: \string
+$: $
+acf: acf
+}: }
+}: }
+\end: \end
+{: {
+document: document
+}: }
