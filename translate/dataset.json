@@ -1,0 +1,704 @@
+{
+    "Default": [
+        {
+            "ID": 1,
+            "A": "They won against big artist like DBSK, Big Bang, Lee Hyori, and Rain making them the top girl group of the year.",
+            "V": "Họ đã giành chiến thắng trước nghệ sĩ lớn như DBSK, Big Bang, Lee Hyori và Rain làm cho họ trở thành nhóm nhạc nữ hàng đầu của năm.",
+            "GV": "Họ đã giành chiến thắng trước các nghệ sĩ lớn như DBSK, Big Bang, Lee Hyori và Rain để trở thành nhóm nhạc nữ hàng đầu của năm.",
+            "BV": "Họ đã giành chiến thắng trước các nghệ sĩ lớn như DBSK, Big Bang, Lee Hyori và Rain khiến họ trở thành nhóm nhạc nữ hàng đầu của năm."
+        },
+        {
+            "ID": 2,
+            "A": "Right after the promotions of \"Nobody\" ended, the girls' started to get ready for their first ever concert.",
+            "V": "Ngay sau chiến dịch quảng cáo cho ca khúc \"Nobody\" kết thúc, các cô gái bắt đầu sẵn sàng cho buổi hoà nhạc đầu tiên của mình.",
+            "GV": "Ngay sau khi đợt quảng bá \"Nobody\" kết thúc, các cô gái đã bắt tay vào chuẩn bị cho concert đầu tiên của mình.",
+            "BV": "Ngay sau khi chương trình quảng bá của \"Nobody\" kết thúc, các cô gái bắt đầu sẵn sàng cho buổi hòa nhạc đầu tiên của họ."
+        },
+        {
+            "ID": 3,
+            "A": "Having a their own concert was a big achievement because the last time a girl group held a concert was 10 years ago from girl group \"Fin.K.L\".",
+            "V": "Có một buổi hoà nhạc cho riêng mình là một thành tựu lớn bởi vì lần cuối cùng nhóm nhạc nữ tổ chức một buổi hoà nhạc cách đây 10 năm đến từ nhóm nhạc nữ \"Fin.K.L\".",
+            "GV": "Có một buổi hòa nhạc của riêng họ là một thành tích lớn bởi vì lần cuối cùng một nhóm nhạc nữ tổ chức một buổi hòa nhạc là 10 năm trước từ nhóm nhạc nữ \"Fin.K.L\".",
+            "BV": "Có một buổi hòa nhạc của riêng họ là một thành tựu lớn vì lần cuối cùng một nhóm nhạc nữ tổ chức một buổi hòa nhạc là 10 năm trước từ nhóm nhạc nữ \"Fin.K.L\"."
+        },
+        {
+            "ID": 4,
+            "A": "They were also the first girl group to hold an overseas concert.",
+            "V": "Họ cũng là nhóm nhạc nữ đầu tiên tổ chức một buổi hoà nhạc ở nước ngoài.",
+            "GV": "Họ cũng là nhóm nhạc nữ đầu tiên tổ chức concert ở nước ngoài.",
+            "BV": "Họ cũng là nhóm nhạc nữ đầu tiên tổ chức một buổi hòa nhạc ở nước ngoài."
+        },
+        {
+            "ID": 5,
+            "A": "The concert kicked off in Thailand then went to the United States (heading 3 concerts LA, OC, and NY) and then finally ending two concerts in South Korea (Busan and Seoul).",
+            "V": "Buổi hoà nhạc khởi động ở Thái Lan sau đó đến Mỹ (Tổ chức 3 buổi hoà nhạc tại LA, OC và NY) và sau đó cuối cùng kết thúc hai buổi hoà nhạc tại Hàn Quốc (Busan và Seoul).",
+            "GV": "Mở đầu là concert ở Thái Lan sau đó đến Mỹ (đầu tiên là 3 concert LA, OC, NY) và cuối cùng là kết thúc 2 concert ở Hàn Quốc (Busan và Seoul).",
+            "BV": "Buổi hòa nhạc bắt đầu tại Thái Lan sau đó đến Hoa Kỳ (đứng đầu 3 buổi hòa nhạc LA, OC và NY) và cuối cùng kết thúc hai buổi hòa nhạc tại Hàn Quốc (Busan và Seoul)."
+        },
+        {
+            "ID": 6,
+            "A": "After the concert ended the girls' packed their bags and flew to their JYP Headquarters in New York where they had the opportunity to be one of the opening acts for mega boy band Jonas Brothers.",
+            "V": "Sau khi buổi hoà nhạc kết thúc các cô gái thu xếp hành lý và bay tới Trụ sở của JYP tại New York nơi họ có cơ hội trở thành một trong những tiết mục mở đầu cho nhóm nhạc nổi tiếng Jonas Brothers.",
+            "GV": "Sau khi buổi biểu diễn kết thúc, các cô gái thu dọn đồ đạc và bay đến Trụ sở chính của JYP ở New York, nơi họ có cơ hội trở thành một trong những nghệ sĩ mở màn cho nhóm nhạc nam lớn Jonas Brothers.",
+            "BV": "Sau khi buổi hòa nhạc kết thúc, các cô gái đã đóng gói hành lý của họ và bay đến Trụ sở JYP của họ ở New York, nơi họ có cơ hội trở thành một trong những nghệ sĩ mở màn cho nhóm nhạc nam lớn Jonas Brothers."
+        },
+        {
+            "ID": 7,
+            "A": "The Wonder Girls' released their English version of \"Nobody\" on June 26th, 2009 and began their tour with the Jonas Brothers on June 27th, 2009 coincidentally the same day as Sohee's birthday.",
+            "V": "Nhóm nhạc Wonder Girls phát hành phiên bản tiếng Anh cho ca khúc \"Nobody\" vào ngày 26 tháng 6 năm 2009 và bắt đầu tour biểu diễn cùng Jonas Brothers vào ngày 27 tháng 6 năm 2009 trùng với ngày sinh nhật của Sohee.",
+            "GV": "Wonder Girls' đã phát hành phiên bản tiếng Anh của bài hát \"Nobody\" vào ngày 26 tháng 6 năm 2009 và bắt đầu chuyến lưu diễn của họ với Jonas Brothers vào ngày 27 tháng 6 năm 2009, trùng với ngày sinh nhật của Sohee.",
+            "BV": "Wonder Girls 'đã phát hành phiên bản tiếng Anh của \"Nobody\" vào ngày 26 tháng 2009 năm 27 và bắt đầu chuyến lưu diễn của họ với Jonas Brothers vào ngày 2009 tháng XNUMX năm XNUMX trùng hợp cùng ngày với sinh nhật của Sohee."
+        },
+        {
+            "ID": 8,
+            "A": "After the tour ended, the girls went back to their home in New York and started working on their first English album, that is set to release sometime in November of 2009.",
+            "V": "Sau khi tour biểu diễn kết thúc, các cô gái quay trở lại nhà của mình ở New York và bắt đầu tiến hành thực hiện album tiếng Anh đầu tiên, được lên kế hoạch phát hành một ngày nào đó vào tháng 11 năm 2009.",
+            "GV": "Sau khi chuyến lưu diễn kết thúc, các cô gái trở về nhà của họ ở New York và bắt đầu làm việc với album tiếng Anh đầu tiên của họ, sẽ được phát hành vào khoảng tháng 11 năm 2009.",
+            "BV": "Sau khi chuyến lưu diễn kết thúc, các cô gái trở về nhà của họ ở New York và bắt đầu thực hiện album tiếng Anh đầu tiên của họ, dự kiến phát hành vào khoảng tháng 2009 năm XNUMX."
+        },
+        {
+            "ID": 9,
+            "A": "This marketing tactic was a huge success that it landed the girls on the main BillBoard Chart, ranking at #76 on October 22nd, 2009.",
+            "V": "Chiến thuật tiếp thị này là một thành công lớn mà nó đã đặt các cô gái vào bảng xếp hạng chính của Billboard, xếp hạng 76 vào ngày 22 tháng 10, 2009.",
+            "GV": "Chiến thuật tiếp thị này đã thành công rực rỡ khi đưa các cô gái lên Bảng xếp hạng BillBoard chính, xếp hạng 76 vào ngày 22 tháng 10 năm 2009.",
+            "BV": "Chiến thuật tiếp thị này là một thành công lớn khi nó đưa các cô gái lên Bảng xếp hạng BillBoard chính, xếp hạng # 76 vào ngày 22 tháng 2009 năm XNUMX."
+        },
+        {
+            "ID": 10,
+            "A": "Wonder Girls' Lim, an expert in the Chinese language, seems to have been a translator since junior high.",
+            "V": "Thành viên Lim của Wonder Girls, một chuyên gia về tiếng Trung, đã là một thông dịch viên từ thời trung học.",
+            "GV": "Wonder Girls' Lim, một chuyên gia về ngôn ngữ Trung Quốc, dường như đã là một dịch giả từ thời trung học cơ sở.",
+            "BV": "Wonder Girls 'Lim, một chuyên gia về ngôn ngữ Trung Quốc, dường như đã là một dịch giả từ khi còn học trung học cơ sở."
+        },
+        {
+            "ID": 11,
+            "A": "Wonder Girls' Lim recently revealed a photo of her days as a translator.",
+            "V": "Thành viên Lim của Wonder Girls gần đây đã tiết lộ một bức ảnh những ngày cô làm việc như một thông dịch viên.",
+            "GV": "Wonder Girls' Lim gần đây đã tiết lộ một bức ảnh về những ngày cô ấy làm phiên dịch viên.",
+            "BV": "Lim của Wonder Girls gần đây đã tiết lộ một bức ảnh về những ngày cô làm phiên dịch."
+        },
+        {
+            "ID": 12,
+            "A": "On March 3, Lim uploaded the photo through her me2day account, writing \"When I was in 6th grade, at a judo competition.\"",
+            "V": "Vào ngày 3 tháng 3, Lim đã đăng một bức hình ảnh thông qua tài khoản me2day của mình, có ghi rằng \"Khi tôi học lớp 6, tại một cuộc thi judo\".",
+            "GV": "Vào ngày 3 tháng 3, Lim đã tải bức ảnh lên tài khoản me2day của mình, viết \"Khi tôi học lớp 6, tại một cuộc thi judo.\"",
+            "BV": "Vào ngày 3 tháng 3, Lim đã tải lên bức ảnh thông qua tài khoản me2day của mình, viết \"Khi tôi học lớp 6, tại một cuộc thi judo.\""
+        },
+        {
+            "ID": 13,
+            "A": "In one of the photos, Sohee wears a pair of skin-tight jeans and a striped nautical shirt, looking summery and free.",
+            "V": "Một trong những bức hình, Sohee mặc quần Jean bó, và một chiếc áo sọc hải quân, nhìn hợp với mùa hè và thanh thoát.",
+            "GV": "Trong một trong những bức ảnh, Sohee mặc một chiếc quần jean bó sát và áo sơ mi hải quân kẻ sọc, trông rất mùa hè và tự do.",
+            "BV": "Trong một trong những bức ảnh, Sohee mặc một chiếc quần jean bó sát da và một chiếc áo sơ mi hải lý sọc, trông mùa hè và tự do."
+        },
+        {
+            "ID": 14,
+            "A": "Her skinny frame perfected the \"flawless skinny fit\", allowing no room for photoshop.",
+            "V": "Thân hình mảnh mai của cô ấy làm tôn thêm \"thân hình mảnh mai không tì vết\", không chừa chỗ nào cho photoshop cả.",
+            "GV": "Thân hình gầy guộc của cô ấy đã hoàn thiện \"vóc dáng gầy gò hoàn hảo\", không có chỗ cho photoshop.",
+            "BV": "Khung hình gầy gò của cô đã hoàn thiện \"sự vừa vặn với gầy hoàn hảo\", không cho phép có chỗ cho photoshop."
+        },
+        {
+            "ID": 15,
+            "A": "Sohee's pictorial from \"High Cut\" is featured in the 76th issue of the magazine, which was published on May 3.",
+            "V": "Tạp chí ảnh \"High Cut\" đăng hình của Sohee được phát hành vào tạp chí kỳ thứ 76 được xuất bản vào ngày 03 tháng 5.",
+            "GV": "Họa báo của Sohee trong \"High Cut\" được đăng trên tạp chí số 76 phát hành ngày 3/5.",
+            "BV": "Bức ảnh của Sohee từ \"High Cut\" được giới thiệu trong số thứ 76 của tạp chí, được xuất bản vào ngày 3 tháng XNUMX."
+        },
+        {
+            "ID": 16,
+            "A": "Unpublished pictures and behind-the-scene snapshots are also available on High Cut's website.",
+            "V": "Những bức hình chưa công bố bức ảnh chụp cảnh hậu trường cũng có thể kiếm được trên website của High Cut.",
+            "GV": "Những bức ảnh chưa công bố và ảnh chụp nhanh hậu trường cũng có sẵn trên trang web của High Cut.",
+            "BV": "Hình ảnh chưa được công bố và ảnh chụp nhanh hậu trường cũng có sẵn trên trang web của High Cut."
+        },
+        {
+            "ID": 17,
+            "A": "\"High Cut\" also revealed these previously unpublished picture as well as BTS video clips through its digital magazine application for iPad.",
+            "V": "\"High Cut\" cũng tiết lộ những hình ảnh trước đây chưa được công bố cũng như các video clip BTS thông qua ứng dụng tạp chí kỹ thuật số trên iPad.",
+            "GV": "\"High Cut\" cũng tiết lộ những bức ảnh chưa được công bố trước đây cũng như các video clip của BTS thông qua ứng dụng tạp chí kỹ thuật số dành cho iPad.",
+            "BV": "\"High Cut\" cũng tiết lộ những bức ảnh chưa được công bố trước đây cũng như các video clip của BTS thông qua ứng dụng tạp chí kỹ thuật số dành cho iPad."
+        },
+        {
+            "ID": 18,
+            "A": "Meanwhile, Sohee is also seen with her eyes closed in her latest group photo with fellow members of the Wonder Girls.",
+            "V": "Trong khi đó, Sohee cũng được nhìn thấy với đôi mắt nhắm lại trong bộ ảnh gần đây với các thành viên của Wonder Girls.",
+            "GV": "Trong khi đó, Sohee cũng được nhìn thấy với đôi mắt nhắm nghiền trong bức ảnh nhóm mới nhất của cô ấy với các thành viên của Wonder Girls.",
+            "BV": "Trong khi đó, Sohee cũng được nhìn thấy với đôi mắt nhắm nghiền trong bức ảnh nhóm mới nhất của cô với các thành viên của Wonder Girls."
+        },
+        {
+            "ID": 19,
+            "A": "At first I though that maybe the camera shot was too late and Sohee accidentally closed her eyes.",
+            "V": "Lúc đầu, tôi cho rằng có thể máy ảnh chụp chậm nên Sohee vô tình nhắm mắt lại.",
+            "GV": "Lúc đầu, tôi nghĩ rằng có lẽ máy ảnh đã quay quá muộn và Sohee đã vô tình nhắm mắt lại.",
+            "BV": "Lúc đầu, tôi mặc dù có lẽ cảnh quay bằng máy ảnh đã quá muộn và Sohee vô tình nhắm mắt lại."
+        },
+        {
+            "ID": 20,
+            "A": "T-ara is a 6-member girl group out of Core Contents Media.",
+            "V": "T-ara là một nhóm nhạc nữ 6 thành viên của công ty Core Contents Media.",
+            "GV": "T-ara là một nhóm nhạc nữ gồm 6 thành viên thuộc Core Contents Media.",
+            "BV": "T-ara là một nhóm nhạc nữ gồm 6 thành viên của Core Contents Media."
+        },
+        {
+            "ID": 21,
+            "A": "T-ara debuted on July 29th 2009 on MBC's 'Golden Fishery', they are the first group to debut on a variety TV show.",
+            "V": "T-ara đã ra mắt vào ngày 29 tháng 7, 2009 trong chương trình \"Golden Fishery\" của đài MBC, họ là nhóm đầu tiên ra mắt trên chương trình truyền hình khác nhau.",
+            "GV": "T-ara ra mắt vào ngày 29 tháng 7 năm 2009 trên chương trình 'Golden Fishery' của đài MBC, họ là nhóm đầu tiên ra mắt trên một chương trình truyền hình tạp kỹ.",
+            "BV": "T-ara ra mắt vào ngày 29 tháng 2009 năm XNUMX trên 'Golden Fishery' của MBC, họ là nhóm đầu tiên ra mắt trên một chương trình truyền hình tạp kỹ."
+        },
+        {
+            "ID": 22,
+            "A": "T-ara's members are Eunjeong (the leader), Hyomin, Jiyeon, Soyeon, Qri, and Boram.",
+            "V": "Thành viên của T-ara gồm Eunjeong (trưởng nhóm), Hyomin, Jiyeon, Soyeon, Qri và Boram.",
+            "GV": "Các thành viên của T-ara là Eunjeong (trưởng nhóm), Hyomin, Jiyeon, Soyeon, Qri và Boram.",
+            "BV": "Các thành viên của T-ara là Eunjeong (thủ lĩnh), Hyomin, Jiyeon, Soyeon, Qri và Boram."
+        },
+        {
+            "ID": 23,
+            "A": "Early June 2009 two months before the girls' official debut, former leader Jiae and member Jiwon quit the group.",
+            "V": "Vào đầu tháng 6 năm 2009 hai tháng trước khi các cô gái ra mắt chính thức, cựu trưởng nhóm Jiae và thành viên Jiwon đã rời khỏi nhóm.",
+            "GV": "Đầu tháng 6 năm 2009, hai tháng trước khi các cô gái chính thức ra mắt, cựu trưởng nhóm Jiae và thành viên Jiwon rời nhóm.",
+            "BV": "Đầu tháng 6 năm 2009 hai tháng trước khi các cô gái chính thức ra mắt, cựu thủ lĩnh Jiae và thành viên Jiwon rời nhóm."
+        },
+        {
+            "ID": 24,
+            "A": "They believed that the concept of T-ara did not match them.",
+            "V": "Họ tin rằng khái niệm của T-ara không phù hợp với họ.",
+            "GV": "Họ cho rằng concept của T-ara không phù hợp với họ.",
+            "BV": "Họ tin rằng khái niệm T-ara không phù hợp với họ."
+        },
+        {
+            "ID": 25,
+            "A": "Immediately after, Jeon Boram, the daughter of Jeon Youngrok was added into T-ara.",
+            "V": "Ngay sau đó, Jeon Boram, con gái của Jeon Youngrok đã được bổ sung vào T-ara.",
+            "GV": "Ngay sau đó, Jeon Boram, con gái của Jeon Youngrok được thêm vào T-ara.",
+            "BV": "Ngay sau đó, Jeon Boram, con gái của Jeon Youngrok đã được thêm vào T-ara."
+        },
+        {
+            "ID": 26,
+            "A": "Three weeks before T-ara's official debut, Soyeon and Qri were added into T-ara.",
+            "V": "Ba tuần trước khi ra mắt chính thức của T-ara, Soyeon và Qri đã được thêm vào T-ara.",
+            "GV": "Ba tuần trước khi T-ara ra mắt chính thức, Soyeon và Qri đã được thêm vào T-ara.",
+            "BV": "Ba tuần trước khi T-ara chính thức ra mắt, Soyeon và Qri đã được thêm vào T-ara."
+        },
+        {
+            "ID": 27,
+            "A": "These are all the YouTube links to T-ara's music videos (music videos to songs they participate in).",
+            "V": "Đây là tất cả các liên kết trên YouTube về các video nhạc của T-ara (video âm nhạc các bài hát mà họ tham gia).",
+            "GV": "Đây là tất cả các liên kết YouTube đến các video âm nhạc của T-ara (video âm nhạc cho các bài hát mà họ tham gia).",
+            "BV": "Đây là tất cả các liên kết YouTube đến các video âm nhạc của T-ara (video âm nhạc đến các bài hát mà họ tham gia)."
+        },
+        {
+            "ID": 28,
+            "A": "This is only to inform people of T-ara's music and concept.",
+            "V": "Đây là chỉ để thông báo cho mọi người về âm nhạc và concept của T-ara.",
+            "GV": "Đây chỉ là để thông báo cho mọi người về âm nhạc và khái niệm của T-ara.",
+            "BV": "Điều này chỉ để thông báo cho mọi người về âm nhạc và khái niệm của T-ara."
+        },
+        {
+            "ID": 29,
+            "A": "Girl group T-ara member, Boram, melted her male fans' hearts.",
+            "V": "Thành viên của nhóm nhạc nữ T-ara, Boram, đã làm tan chảy trái tim của các fan.",
+            "GV": "Thành viên nhóm nhạc nữ T-ara, Boram, đã làm tan chảy trái tim của các fan nam.",
+            "BV": "Thành viên nhóm nhạc nữ T-ara, Boram, đã làm tan chảy trái tim của những người hâm mộ nam của cô."
+        },
+        {
+            "ID": 30,
+            "A": "On March 14, rumors of T-ara possibly switching their members and the overall concept of the group have surfaced online.",
+            "V": "Vào ngày 14 tháng 3, tin đồn khả năng T-ara thay đổi thành viên và toàn bộ concept của nhóm đã được truy cập online.",
+            "GV": "Vào ngày 14 tháng 3, tin đồn về việc T-ara có thể thay đổi thành viên và concept chung của nhóm đã xuất hiện trên mạng.",
+            "BV": "Vào ngày 14 tháng XNUMX, tin đồn về việc T-ara có thể chuyển đổi thành viên của họ và khái niệm tổng thể của nhóm đã xuất hiện trên mạng."
+        },
+        {
+            "ID": 31,
+            "A": "The group added Hwayoung in November 2010, becoming a seven member group, and this would be the second time that T-ara made changes to their group structure.",
+            "V": "Nhóm đã bổ sung Hwayoung vào tháng 11 năm 2010, trở thành một nhóm 7 thành viên, đây có thể sẽ là lần thứ hai T-ara thay đổi kết cấu nhóm.",
+            "GV": "Nhóm đã thêm Hwayoung vào tháng 11 năm 2010, trở thành một nhóm bảy thành viên và đây sẽ là lần thứ hai T-ara thay đổi cấu trúc nhóm của họ.",
+            "BV": "Nhóm đã thêm Hwayoung vào tháng 2010 năm XNUMX, trở thành một nhóm bảy thành viên, và đây sẽ là lần thứ hai T-ara thực hiện các thay đổi đối với cấu trúc nhóm của họ."
+        },
+        {
+            "ID": 32,
+            "A": "Girl group T-ara member, Hwayoung, and SISTAR member, Dasom, revealed a no makeup selca picture taken together.",
+            "V": "Thành viên nhóm nhạc nữ T-ara, Hwayoung, và thành viên SISTAR, Dasom, tiết lộ một bức hình tự chụp với nhau không trang điểm.",
+            "GV": "Thành viên nhóm nhạc nữ T-ara, Hwayoung, và thành viên SISTAR, Dasom, đã tiết lộ một bức ảnh selca không trang điểm chụp cùng nhau.",
+            "BV": "Thành viên nhóm nhạc nữ T-ara, Hwayoung và thành viên SISTAR, Dasom, đã tiết lộ một bức ảnh selca không trang điểm được chụp cùng nhau."
+        },
+        {
+            "ID": 33,
+            "A": "Hwayoung uploaded a picture on her Twitter with the caption: \"With Dasom, at Paris\".",
+            "V": "Hwayoung đăng tải một bức hình trên Twitter của mình với chú thích: \"Với Dasom, tại Paris\"",
+            "GV": "Hwayoung đã đăng một bức ảnh lên Twitter với chú thích: \"Cùng Dasom, tại Paris\".",
+            "BV": "Hwayoung đã tải lên một bức ảnh trên Twitter của mình với chú thích: \"Với Dasom, tại Paris\"."
+        },
+        {
+            "ID": 34,
+            "A": "In the revealed selca picture, Hwayoung is smiling widely while winking.",
+            "V": "Trong tấm hình tự chụp được tiết lộ, Hwayoung nháy mắt cười hết cỡ.",
+            "GV": "Trong bức ảnh selca được tiết lộ, Hwayoung đang cười thật tươi trong khi nháy mắt.",
+            "BV": "Trong bức ảnh selca được tiết lộ, Hwayoung đang mỉm cười rạng rỡ trong khi nháy mắt."
+        },
+        {
+            "ID": 35,
+            "A": "Dasom is holding the camera with one hand and also smiling brightly while snuggling close to Hwayoung.",
+            "V": "Dasom cầm máy ảnh một tay và cười rạng rỡ khi xích lại gần Hwayoung.",
+            "GV": "Dasom một tay cầm máy quay và còn cười rạng rỡ khi rúc vào người Hwayoung.",
+            "BV": "Dasom đang cầm máy ảnh bằng một tay và cũng mỉm cười rạng rỡ trong khi rúc vào gần Hwayoung."
+        },
+        {
+            "ID": 36,
+            "A": "The two girls look friendly as they pose on top of a bed with no makeup.",
+            "V": "Hai cô gái nhìn thân thiện khi họ chụp ảnh nằm trên giường mà không trang điểm.",
+            "GV": "Hai cô gái trông thân thiện khi tạo dáng trên giường mà không trang điểm.",
+            "BV": "Hai cô gái trông thân thiện khi họ tạo dáng trên một chiếc giường không trang điểm."
+        },
+        {
+            "ID": 37,
+            "A": "In the photo, Hyomin is seen wearing a towel on her head and a shower gown, making a funny face as she stares into the camera.",
+            "V": "Trong bức ảnh, Hyomin được thấy quấn một chiếc khăn trên đầu và áo choàng tắm, làm mặt hài hước khi cô nhìn chằm chằm vào chiếc máy ảnh.",
+            "GV": "Trong bức ảnh, Hyomin đội một chiếc khăn tắm trên đầu và mặc áo choàng tắm, làm một khuôn mặt hài hước khi cô ấy nhìn chằm chằm vào máy ảnh.",
+            "BV": "Trong bức ảnh, Hyomin được nhìn thấy mặc một chiếc khăn trên đầu và một chiếc áo choàng tắm, tạo ra một khuôn mặt hài hước khi cô nhìn chằm chằm vào máy ảnh."
+        },
+        {
+            "ID": 38,
+            "A": "She is indeed wearing a facial mask to moisturize and soften her skin.",
+            "V": "Cô ấy thực ra là đắp mặt nạ để dưỡng ẩm và làm mềm da.",
+            "GV": "Cô ấy thực sự đang đắp mặt nạ để dưỡng ẩm và làm mềm da.",
+            "BV": "Cô ấy thực sự đang đeo mặt nạ để giữ ẩm và làm mềm da."
+        },
+        {
+            "ID": 39,
+            "A": "But fans have rather been impressed by her friendly, girl-next-door image, as it's rare that a celebrity share moments like this with their fans.",
+            "V": "Nhưng người hâm mộ đã khá ấn tượng bởi hình ảnh thân thiện của cô gái ngay bên cạnh, vì thật hiếm hoi khi một người nổi tiếng chia sẻ những khoảnh khắc như thế này với fan hâm mộ của mình.",
+            "GV": "Tuy nhiên, người hâm mộ khá ấn tượng với hình ảnh thân thiện, gần gũi của cô vì hiếm khi một người nổi tiếng chia sẻ những khoảnh khắc như thế này với người hâm mộ của họ.",
+            "BV": "Nhưng người hâm mộ đã khá ấn tượng bởi hình ảnh cô gái bên cạnh thân thiện của cô ấy, vì rất hiếm khi một người nổi tiếng chia sẻ những khoảnh khắc như thế này với người hâm mộ của họ."
+        },
+        {
+            "ID": 40,
+            "A": "Netizens commented, \"I don't think her skin would require a facial\", \"Loving every moment of this\", and \"Am I the only one who's a bit scared off by this?\"",
+            "V": "Cư dân mạng nhận xét \"Tôi không nghĩ da của cô ấy cần đắp mặt nạ\", \"Yêu tất cả những khoảnh khắc này\", và \"Có phải chỉ mình tôi sợ cái này không vậy?\".",
+            "GV": "Cư dân mạng nhận xét: \"Tôi không nghĩ làn da của cô ấy cần được chăm sóc da mặt\", \"Yêu thích từng khoảnh khắc này\" và \"Tôi có phải là người duy nhất cảm thấy hơi sợ hãi vì điều này không?\"",
+            "BV": "Cư dân mạng nhận xét: \"Tôi không nghĩ làn da của cô ấy sẽ cần một khuôn mặt\", \"Yêu từng khoảnh khắc của điều này\", và \"Tôi có phải là người duy nhất hơi sợ hãi vì điều này không?\""
+        },
+        {
+            "ID": 41,
+            "A": "Eun Ji Won appeared on the February 28 episode of KBS 2 \"Kim Seung Woo's Win Win\".",
+            "V": "Eun Ji Won đã xuất hiện vào ngày 28 tháng 2 trong chương trình \"Kim Seung Woo's Win Win\" của kênh KBS 2.",
+            "GV": "Eun Ji Won đã xuất hiện trong tập phát sóng ngày 28 tháng 2 của KBS 2 \"Kim Seung Woo's Win Win\".",
+            "BV": "Eun Ji Won xuất hiện trong tập ngày 28 tháng 2 của KBS 2 \"Kim Seung Woo's Win Win\"."
+        },
+        {
+            "ID": 42,
+            "A": "Eun Ji Won spoke about being an international student in Hawaii and made a shocking statement, \"When I was an international student in Hawaii, I was an illegal alien.\"",
+            "V": "Eun Ji Won nói về việc là một sinh viên quốc tế tại Hawaii và tuyên bố gây sốc, \"Khi tôi là một du học sinh ở Hawaii, tôi là một người nước ngoài bất hợp pháp\".",
+            "GV": "Eun Ji Won chia sẻ về việc là du học sinh tại Hawaii và có tuyên bố gây sốc: \"Khi còn là du học sinh tại Hawaii, tôi là người nước ngoài bất hợp pháp\".",
+            "BV": "Eun Ji Won đã nói về việc trở thành một sinh viên quốc tế ở Hawaii và đưa ra một tuyên bố gây sốc, \"Khi tôi còn là một sinh viên quốc tế ở Hawaii, tôi là một người nước ngoài bất hợp pháp.\""
+        },
+        {
+            "ID": 43,
+            "A": "The reason was that Eun Ji Won did not adjust well to Hawaii and he was going through puberty.",
+            "V": "Lý do là Eun Ji Won đã không thích nghi tốt khi ở Hawaii và anh ấy đã qua tuổi dậy thì.",
+            "GV": "Nguyên nhân là do Eun Ji Won chưa thích nghi tốt với Hawaii và đang trong độ tuổi dậy thì.",
+            "BV": "Lý do là Eun Ji Won không thích nghi tốt với Hawaii và anh ấy đã trải qua tuổi dậy thì."
+        },
+        {
+            "ID": 44,
+            "A": "He stated, \"I had to continue to go to school in order to keep my school visa.\"",
+            "V": "Anh cho biết \"Tôi phải tiếp tục đi học để giữ visa du học của mình\".",
+            "GV": "Anh ấy nói, \"Tôi phải tiếp tục đi học để giữ visa đi học của mình.\"",
+            "BV": "Anh ấy nói, \"Tôi đã phải tiếp tục đi học để giữ visa đi học của mình.\""
+        },
+        {
+            "ID": 45,
+            "A": "However, I missed so many classes that I ended up being dispelled from school.",
+            "V": "Tuy nhiên, tôi đã bỏ nhiều tiết học nên tôi đã bị đuổi học.",
+            "GV": "Tuy nhiên, tôi đã bỏ lỡ nhiều buổi học đến nỗi cuối cùng tôi bị đuổi khỏi trường.",
+            "BV": "Tuy nhiên, tôi đã bỏ lỡ rất nhiều lớp học đến nỗi cuối cùng tôi đã bị xua tan khỏi trường học."
+        },
+        {
+            "ID": 46,
+            "A": "Earlier today, producers of KBS2 \"Happy Sunday - One Night, Two Days (1N2D)\" announced the final filming location for the popular variety show.",
+            "V": "Sáng sớm hôm nay, những nhà sản xuất chương trình \"Chủ nhật vui vẻ - Hai ngày một đêm (1N2D)\" của KBS2 công bố địa điểm quay phim cuối cùng cho chương trình tạp kỹ nổi tiếng.",
+            "GV": "Đầu ngày hôm nay, các nhà sản xuất của đài KBS2 \"Happy Sunday - One Night, Two Days (1N2D)\" đã công bố địa điểm quay phim cuối cùng cho chương trình tạp kỹ nổi tiếng này.",
+            "BV": "Đầu ngày hôm nay, các nhà sản xuất của KBS2 \"Happy Sunday - One Night, Two Days (1N2D)\" đã công bố địa điểm quay phim cuối cùng cho chương trình tạp kỹ nổi tiếng."
+        },
+        {
+            "ID": 47,
+            "A": "As previously reported, the last recording of \"1N2D\" will be tomorrow, February 10.",
+            "V": "Theo báo cáo gần đây, lần quay gần đây nhất của chương trình \"1N2D\" sẽ vào ngày mai, 10 tháng 2.",
+            "GV": "Như đã đưa tin trước đó, buổi ghi hình cuối cùng của 1N2D sẽ diễn ra vào ngày mai, 10/2.",
+            "BV": "Như đã báo cáo trước đó, bản ghi âm cuối cùng của \"1N2D\" sẽ là vào ngày mai, ngày 10 tháng XNUMX."
+        },
+        {
+            "ID": 48,
+            "A": "1N2D Season 2 promotions begin without Lee Seung Gi and Eun Ji Won.",
+            "V": "Chiến dịch quảng bá cho chương trình 1N2D mùa thứ hai khởi đầu mà không có Lee Seung Gi và Eun Ji Won.",
+            "GV": "Chương trình quảng bá 1N2D Season 2 bắt đầu mà không có Lee Seung Gi và Eun Ji Won.",
+            "BV": "Chương trình khuyến mãi 1N2D Season 2 bắt đầu mà không có Lee Seung Gi và Eun Ji Won."
+        },
+        {
+            "ID": 49,
+            "A": "We previously reported that the date of the last recording of \"1N2D\" has been announced.",
+            "V": "Chúng tôi đã thông báo gần đây rằng ngày quay gần nhất của chương trình \"1N2D\" đã được công bố.",
+            "GV": "Trước đây chúng tôi đã thông báo rằng ngày ghi hình cuối cùng của \"1N2D\" đã được công bố.",
+            "BV": "Trước đây chúng tôi đã báo cáo rằng ngày ghi âm cuối cùng của \"1N2D\" đã được công bố."
+        },
+        {
+            "ID": 50,
+            "A": "The continuation of KBS hit variety show \"1 Night 2 Days\" has been garnering a lot of attention recently as it was announced that season 2 had officially started promotions through a preview.",
+            "V": "Việc tiếp tục chương trình tạp kỹ \"1 Night 2 Days\" của KBS gần đây đã gây được nhiều sự quan tâm khi được thông cáo rằng mùa thứ hai chính thức khởi động chiến dịch quảng bá qua một buổi duyệt trước.",
+            "GV": "Sự tiếp nối của chương trình giải trí ăn khách của đài KBS \"1 Night 2 Days\" đã thu hút được rất nhiều sự chú ý gần đây khi có thông báo rằng mùa 2 đã chính thức bắt đầu quảng bá thông qua một bản xem trước.",
+            "BV": "Việc tiếp tục chương trình tạp kỹ ăn khách \"1 Night 2 Days\" của đài KBS đã thu hút được rất nhiều sự chú ý trong thời gian gần đây khi có thông báo rằng mùa 2 đã chính thức bắt đầu quảng bá thông qua bản xem trước."
+        },
+        {
+            "ID": 51,
+            "A": "Bobby Kim stated, \"A lot of hip hop musicians will join the stage for the 10 year anniversary concert and that is very meaningful.\"",
+            "V": "Bobby Kim phát biểu \"Rất nhiều nghệ sĩ hip hop sẽ tham gia biểu diễn trong buổi hoà nhạc kỷ niệm 10 năm và thật là có ý nghĩa\".",
+            "GV": "Bobby Kim cho biết: \"Rất nhiều nhạc sĩ hip hop sẽ tham gia biểu diễn trên sân khấu cho buổi hòa nhạc kỷ niệm 10 năm và điều đó rất có ý nghĩa.\"",
+            "BV": "Bobby Kim cho biết: \"Rất nhiều nhạc sĩ hip hop sẽ tham gia sân khấu cho buổi hòa nhạc kỷ niệm 10 năm và điều đó rất có ý nghĩa.\""
+        },
+        {
+            "ID": 52,
+            "A": "I thank all of the guests that will join us despite their busy schedules.",
+            "V": "Tôi cảm ơn tất cả các khách mời tham gia với chúng tôi mặc dù lịch trình bận rộn của họ.",
+            "GV": "Tôi cảm ơn tất cả các vị khách sẽ tham gia cùng chúng tôi mặc dù lịch trình bận rộn của họ.",
+            "BV": "Tôi cảm ơn tất cả các vị khách sẽ tham gia cùng chúng tôi bất chấp lịch trình bận rộn của họ."
+        },
+        {
+            "ID": 53,
+            "A": "There has been many speculations about how Park Geun Hye's position as a famous and influential politician has helped Eun Ji Won's entertainment and singing career.",
+            "V": "Hiện đã có nhiều suy đoán về vị trí một chính trị gia nổi tiếng và có ảnh hưởng của Park Geun Hye đã giúp sự nghiệp ca hát và giải trí của Eun Ji Won như thế nào.",
+            "GV": "Đã có nhiều suy đoán về việc Park Geun Hye là một chính trị gia nổi tiếng và có tầm ảnh hưởng lớn đã giúp gì cho sự nghiệp giải trí và ca hát của Eun Ji Won.",
+            "BV": "Đã có nhiều suy đoán về việc vị trí của Park Geun Hye như một chính trị gia nổi tiếng và có ảnh hưởng như thế nào đã giúp ích cho sự nghiệp giải trí và ca hát của Eun Ji Won."
+        },
+        {
+            "ID": 54,
+            "A": "Eun Ji Won denied such speculations saying, \"Many people think that having an influential politician as an aunt would give me some kind of privileges.\"",
+            "V": "Eun Ji Won từ chối những lời suy đoán như vậy bằng câu nói \"Nhiều người nghĩ rằng có một chính trị gia có ảnh hưởng như dì sẽ giúp tôi một có được quyền ưu tiên\".",
+            "GV": "Eun Ji Won phủ nhận những suy đoán như vậy khi nói: \"Nhiều người nghĩ rằng việc có một chính trị gia có ảnh hưởng làm dì sẽ mang lại cho tôi một số đặc quyền\".",
+            "BV": "Eun Ji Won phủ nhận những suy đoán như vậy nói rằng, \"Nhiều người nghĩ rằng có một chính trị gia có ảnh hưởng làm dì sẽ mang lại cho tôi một số đặc quyền.\""
+        },
+        {
+            "ID": 55,
+            "A": "It's a rather difficult situation for me to deal with as I have to be cautious and behave in politically sensitive times.",
+            "V": "Đó là một tình huống khá khó khăn cho tôi để đối phó vì tôi phải thận trọng và cư xử trong thời gian nhạy cảm về chính trị.",
+            "GV": "Đó là một tình huống khá khó khăn đối với tôi vì tôi phải thận trọng và hành xử trong những thời điểm nhạy cảm về chính trị.",
+            "BV": "Đó là một tình huống khá khó khăn đối với tôi vì tôi phải thận trọng và cư xử trong những thời điểm nhạy cảm về chính trị."
+        },
+        {
+            "ID": 56,
+            "A": "He added, \"It's not like she's producing my albums or casting me on shows.\"",
+            "V": "Ông nói thêm \"Nó không giống như việc cô ấy sản xuất album hoặc casting tôi trong các chương trình\".",
+            "GV": "Anh ấy nói thêm, \"Không phải cô ấy đang sản xuất album của tôi hay mời tôi tham gia các chương trình.\"",
+            "BV": "Anh ấy nói thêm, \"Nó không giống như cô ấy đang sản xuất album của tôi hoặc đưa tôi vào các chương trình.\""
+        },
+        {
+            "ID": 57,
+            "A": "Although Park Geun Hye's political career does not affect Eun Ji Won, she has been supportive of his career all along.",
+            "V": "Mặc dù sự nghiệp chính trị của Park Geun Hye không ảnh hưởng đến Eun Ji Won, ngay từ đầu cô đã ủng hộ sự nghiệp của anh ấy.",
+            "GV": "Mặc dù sự nghiệp chính trị của Park Geun Hye không ảnh hưởng đến Eun Ji Won nhưng cô ấy luôn ủng hộ sự nghiệp của anh ấy.",
+            "BV": "Mặc dù sự nghiệp chính trị của Park Geun Hye không ảnh hưởng đến Eun Ji Won, nhưng cô ấy đã ủng hộ sự nghiệp của anh ấy trong suốt thời gian qua."
+        },
+        {
+            "ID": 58,
+            "A": "Eun Ji Won commented, \"I think she is being considerate as she doesn't take up political issues with me.\"",
+            "V": "Eun Ji Won bình luận \"Tôi nghĩ cô ấy thận trọng vì cô ấy không áp dụng việc chính trị với tôi\".",
+            "GV": "Eun Ji Won nhận xét: \"Tôi nghĩ cô ấy rất chu đáo vì cô ấy không đề cập đến các vấn đề chính trị với tôi.\"",
+            "BV": "Eun Ji Won nhận xét: \"Tôi nghĩ cô ấy đang được quan tâm vì cô ấy không tiếp nhận các vấn đề chính trị với tôi.\""
+        },
+        {
+            "ID": 59,
+            "A": "On the show, Eun Ji Won also showed great respect for his aunt.",
+            "V": "Trong chương trình, Eun Ji Won cũng thể hiện sự tôn trọng dành cho dì của mình.",
+            "GV": "Trong chương trình, Eun Ji Won cũng tỏ ra vô cùng kính trọng dì của mình.",
+            "BV": "Trong chương trình, Eun Ji Won cũng thể hiện sự tôn trọng lớn đối với dì của mình."
+        },
+        {
+            "ID": 60,
+            "A": "He said, \"It must be hard to be a politician as there are a lot of things to deal with.\"",
+            "V": "Anh cho biết \"Thật là cực cho những nhà chính trị vì họ có nhiều việc phải giải quyết\".",
+            "GV": "Anh ấy nói, \"Thật khó để trở thành một chính trị gia vì có rất nhiều việc phải giải quyết.\"",
+            "BV": "Ông nói: \"Chắc hẳn rất khó để trở thành một chính trị gia vì có rất nhiều thứ phải giải quyết\"."
+        },
+        {
+            "ID": 61,
+            "A": "New boy group MYNAME has released their debut music video \"Message\" today.",
+            "V": "Nhóm nhạc nam mới MYNAME đã phát hành video âm nhạc mới ra mắt \"Message\" vào ngày hôm nay.",
+            "GV": "Nhóm nhạc nam mới MYNAME đã phát hành video âm nhạc đầu tay \"Message\" vào ngày hôm nay.",
+            "BV": "Nhóm nhạc nam mới MYNAME đã phát hành video âm nhạc đầu tay \"Message\" hôm nay."
+        },
+        {
+            "ID": 62,
+            "A": "Boy group MYNAME has released their debut teaser for \"Message\"!",
+            "V": "Nhóm nhạc nam MYNAME đã phát hành teaser ra mắt cho ca khúc \"Message!\".",
+            "GV": "Nhóm nhạc nam MYNAME đã phát hành teaser đầu tay cho \"Message\"!",
+            "BV": "Nhóm nhạc nam MYNAME đã phát hành teaser đầu tay cho \"Message\"!"
+        },
+        {
+            "ID": 63,
+            "A": "They will be making their debut performance this week on M! Countdown.",
+            "V": "Họ sẽ biểu diễn ra mắt khán giả vào tuần này trên chương trình M!Countdown.",
+            "GV": "Họ sẽ có màn trình diễn đầu tiên vào tuần này trên M! Đếm ngược.",
+            "BV": "Họ sẽ có màn trình diễn đầu tay trong tuần này trên M! Countdown."
+        },
+        {
+            "ID": 64,
+            "A": "If you're a fan of Hwanhee, you've most likely heard of his new boy group, MYNAME, who's slated for their debut in just a few days.",
+            "V": "Nếu bạn là một fan hâm mộ của Hwanhee, bạn đã có thể nghe nói về nhóm nhạc mới MYNAME, dự kiến sẽ ra mắt khán giả chỉ trong một vài ngày tới.",
+            "GV": "Nếu bạn là một fan hâm mộ của Hwanhee, rất có thể bạn đã nghe nói về nhóm nhạc nam mới của anh ấy, MYNAME, những người dự kiến ​​​​sẽ ra mắt chỉ sau vài ngày nữa.",
+            "BV": "Nếu bạn là một fan hâm mộ của Hwanhee, rất có thể bạn đã nghe nói về nhóm nhạc nam mới của anh ấy, MYNAME, người dự kiến sẽ ra mắt chỉ sau vài ngày nữa."
+        },
+        {
+            "ID": 65,
+            "A": "The group is considered his last present before he enlists in the army and many are highly anticipating whether the boys will make an impact on the industry like their senior was able to.",
+            "V": "Nhóm nhạc này được coi là sự hiện diện lần cuối của anh trước khi anh nhập ngũ và nhiều người dự đoán liệu những chàng trai này sẽ gây ảnh hưởng đến ngành công nghiệp này giống người anh cả của họ đã từng có thể hay không.",
+            "GV": "Nhóm được coi là món quà cuối cùng của anh ấy trước khi anh ấy nhập ngũ và nhiều người đang rất kỳ vọng liệu các chàng trai có tạo được ảnh hưởng đến ngành công nghiệp âm nhạc như tiền bối của họ hay không.",
+            "BV": "Nhóm được coi là món quà cuối cùng của anh ấy trước khi anh ấy nhập ngũ và nhiều người rất mong đợi liệu các chàng trai có tạo ra ảnh hưởng đến ngành công nghiệp như đàn anh của họ đã có thể làm hay không."
+        },
+        {
+            "ID": 66,
+            "A": "Singer Hwanhee (age 29) has been enlisted for the army and will temporarily say goodbye to his fans.",
+            "V": "Ca sĩ Hwanhee (29 tuổi) đã nhập ngũ và sẽ tạm thời nói lời tạm biệt với các fan hâm mộ của mình.",
+            "GV": "Ca sĩ Hwanhee (29 tuổi) đã lên đường nhập ngũ và tạm thời nói lời tạm biệt với người hâm mộ.",
+            "BV": "Ca sĩ Hwanhee (29 tuổi) đã nhập ngũ và sẽ tạm thời nói lời tạm biệt với người hâm mộ của mình."
+        },
+        {
+            "ID": 67,
+            "A": "On October 17, sources revealed, \"Hwanhee's enlistment date has been decided.\"",
+            "V": "Ngày 17 tháng 10, nguồn tin tiết lộ \"Ngày nhập ngũ của Hwanhee đã được quyết định\".",
+            "GV": "Ngày 17/10, một nguồn tin tiết lộ: \"Ngày nhập ngũ của Hwanhee đã được quyết định\".",
+            "BV": "Vào ngày 17 tháng XNUMX, các nguồn tin tiết lộ, \"Ngày nhập ngũ của Hwanhee đã được quyết định.\""
+        },
+        {
+            "ID": 68,
+            "A": "After success in duo Fly To The Sky with fellow member Brian Joo, Hwanhee's first full-length album has been released.",
+            "V": "Sau thành công của nhóm nhạc bộ đôi Fly To The Sky cùng với thành viên Brian Joo, album trọn bộ đầu tiên của Hwanhee đã được phát hành.",
+            "GV": "Sau thành công của bộ đôi Fly To The Sky cùng thành viên Brian Joo, full album đầu tay của Hwanhee đã được phát hành.",
+            "BV": "Sau thành công trong bộ đôi Fly To The Sky với thành viên Brian Joo, album dài đầu tiên của Hwanhee đã được phát hành."
+        },
+        {
+            "ID": 69,
+            "A": "After working on a number of mini albums and later having a problem with his vocal health, the singer is back to form with a self-titled album.",
+            "V": "Sau khi thực hiện xong một bài hát trong album mini, và sau đó có vấn đề về sức khoẻ của giọng hát, ca sĩ này đã quay trở lại với một album tự đặt tên.",
+            "GV": "Sau khi thực hiện một số mini album và sau đó gặp vấn đề về sức khỏe giọng hát, nam ca sĩ đã trở lại hoạt động với một album cùng tên.",
+            "BV": "Sau khi thực hiện một số mini album và sau đó gặp vấn đề với sức khỏe giọng hát của mình, ca sĩ đã trở lại hình thức với một album cùng tên."
+        },
+        {
+            "ID": 70,
+            "A": "Earlier, we revealed that vocalist Hwanhee would be debuting his very own group next month.",
+            "V": "Trước đó, chúng tôi tiết lộ rằng ca sĩ Hwanhee sẽ cho ra mắt nhóm nhạc của mình vào tháng tới.",
+            "GV": "Trước đó, chúng tôi đã tiết lộ rằng giọng ca chính Hwanhee sẽ ra mắt nhóm nhạc của riêng mình vào tháng tới.",
+            "BV": "Trước đó, chúng tôi đã tiết lộ rằng giọng ca Hwanhee sẽ ra mắt nhóm rất riêng của mình vào tháng tới."
+        },
+        {
+            "ID": 71,
+            "A": "With two members already revealed, Hwanhee has revealed a third member along with their official group name.",
+            "V": "Với hai thành viên đã được tiết lộ, Hwanhee tiết lộ thành viên thứ ba cùng với tên nhóm chính thức của họ.",
+            "GV": "Với hai thành viên đã được tiết lộ, Hwanhee đã tiết lộ thành viên thứ ba cùng với tên nhóm chính thức của họ.",
+            "BV": "Với hai thành viên đã được tiết lộ, Hwanhee đã tiết lộ thành viên thứ ba cùng với tên nhóm chính thức của họ."
+        },
+        {
+            "ID": 72,
+            "A": "The boys were called \"Hwanhee Boys\" prior to their debut due to being produced by Hwanhee, but have revealed their new official name to be MYNAME.",
+            "V": "Các chàng trai được gọi là \"Hwanhee Boys\" trước khi ra mắt do được sản xuất bởi Hwanhee, nhưng đã tiết lộ tên chính thức mới của mình là MYNAME.",
+            "GV": "Các chàng trai được gọi là \"Hwanhee Boys\" trước khi ra mắt do được sản xuất bởi Hwanhee, nhưng đã tiết lộ tên chính thức mới của họ là MYNAME.",
+            "BV": "Các chàng trai được gọi là \"Hwanhee Boys\" trước khi ra mắt do Hwanhee sản xuất, nhưng đã tiết lộ tên chính thức mới của họ là MYNAME."
+        },
+        {
+            "ID": 73,
+            "A": "Former Fly to the Sky member Hwanhee has joined the South Korean army today.",
+            "V": "Cựu thành viên của nhóm Fly Sky Hwanhee đã nhập ngũ vào quân đội Hàn Quốc ngày hôm nay.",
+            "GV": "Cựu thành viên Fly to the Sky Hwanhee đã gia nhập quân đội Hàn Quốc ngày hôm nay.",
+            "BV": "Cựu thành viên Fly to the Sky, Hwanhee đã gia nhập quân đội Hàn Quốc hôm nay."
+        },
+        {
+            "ID": 74,
+            "A": "Hwanhee debuted in 2000 as a member of Fly to the Sky with Brian Joo.",
+            "V": "Hwanhee ra mắt vào năm 2000 như là một thành viên của nhóm Fly to the Sky cùng với Brian Joo.",
+            "GV": "Hwanhee ra mắt vào năm 2000 với tư cách là thành viên của Fly to the Sky cùng với Brian Joo.",
+            "BV": "Hwanhee ra mắt vào năm 2000 với tư cách là thành viên của Fly to the Sky cùng với Brian Joo."
+        },
+        {
+            "ID": 75,
+            "A": "Following the breakup of the group, Hwanhee worked as a solo singer while also producing a new idol group, MYNAME, who's expected to have their comeback performance today.",
+            "V": "Sau sự tan rã của nhóm, Hwanhee đã hoạt động như một ca sĩ solo đồng thời cũng cho ra đời một nhóm nhạc thần tượng mới MYNAME, được dự kiến sẽ có bài trình diễn cho lần trở lại vào ngày hôm nay.",
+            "GV": "Sau khi nhóm tan rã, Hwanhee hoạt động với tư cách ca sĩ solo đồng thời sản xuất một nhóm nhạc thần tượng mới, MYNAME, những người dự kiến ​​sẽ có màn trình diễn trở lại vào ngày hôm nay.",
+            "BV": "Sau khi nhóm tan rã, Hwanhee làm ca sĩ solo đồng thời sản xuất một nhóm nhạc thần tượng mới, MYNAME, người dự kiến sẽ có màn trình diễn trở lại vào ngày hôm nay."
+        },
+        {
+            "ID": 76,
+            "A": "Lee Yoon Ji did not recognize Hyun Bin as her college Sunbae.",
+            "V": "Lee Yoon Ji không nhận ra Hyun Bin là bạn cùng trường cao đẳng Sunbae.",
+            "GV": "Lee Yoon Ji không nhận Hyun Bin là tiền bối thời đại học của mình.",
+            "BV": "Lee Yoon Ji không nhận ra Hyun Bin là Sunbae thời đại học của cô."
+        },
+        {
+            "ID": 77,
+            "A": "Brian doesn't like when people say FTTS has broken up.",
+            "V": "Brian không thích khi mọi người nói nhóm FTTS đã tan rã.",
+            "GV": "Brian không thích khi mọi người nói FTTS đã tan rã.",
+            "BV": "Brian không thích khi mọi người nói FTTS đã chia tay."
+        },
+        {
+            "ID": 78,
+            "A": "It has been 2 days since I came home from 2 and a half weeks in New York.",
+            "V": "Đã được hai ngày kể từ khi tôi trở về nhà từ 2 tuần rưỡi ở New York.",
+            "GV": "Đã 2 ngày kể từ khi tôi về nhà sau 2 tuần rưỡi ở New York.",
+            "BV": "Đã 2 ngày kể từ khi tôi trở về nhà sau 2 tuần rưỡi ở New York."
+        },
+        {
+            "ID": 79,
+            "A": "As I gradually make the transition from living the hustle and bustle of busy city life to the more relaxed, slower pace of an island town i catch myself from doing certain things.",
+            "V": "Vì tôi đã dần dần chuyển đổi từ cuộc sống hối hả và nhộn nhịp của cuộc sống thành phố bận rộn thành cuộc sống thoải mái hơn, tốc độ chậm hơn của một thị trấn trên đảo nên tôi bắt bản thân mình làm việc gì đó.",
+            "GV": "Khi tôi dần dần chuyển đổi từ cuộc sống hối hả và nhộn nhịp của cuộc sống thành phố bận rộn sang cuộc sống thoải mái hơn, nhịp độ chậm hơn của một thị trấn trên đảo, tôi thấy mình không làm được một số việc nhất định.",
+            "BV": "Khi tôi dần dần thực hiện quá trình chuyển đổi từ cuộc sống hối hả và nhộn nhịp của cuộc sống thành phố bận rộn sang nhịp độ thoải mái hơn, chậm hơn của một thị trấn đảo, tôi bắt gặp mình đang làm một số việc nhất định."
+        },
+        {
+            "ID": 80,
+            "A": "In New York I could j-walk as much I wanted to, without any major violations.",
+            "V": "Ở New York, tôi có thể đi ẩu bao nhiêu tùy thích mà không vi phạm gì nghiêm trọng.",
+            "GV": "Ở New York, tôi có thể đi bộ bao nhiêu tùy thích mà không vi phạm bất kỳ lỗi nghiêm trọng nào.",
+            "BV": "Ở New York, tôi có thể j-walk bao nhiêu tùy thích, mà không có bất kỳ vi phạm lớn nào."
+        },
+        {
+            "ID": 81,
+            "A": "In Hawaii I believe its an 87 dollar fine each time you j-walk.",
+            "V": "Ở Hawaii tôi tin rằng sẽ phạt 87 đôla cho một lần chạy ẩu.",
+            "GV": "Ở Hawaii, tôi tin rằng bạn sẽ bị phạt 87 đô la mỗi lần bạn đi bộ.",
+            "BV": "Ở Hawaii, tôi tin rằng nó là một khoản tiền phạt 87 đô la mỗi khi bạn j-walk."
+        },
+        {
+            "ID": 82,
+            "A": "Another one is walking fast and with reckless abandon for the safety or space of your fellow pedestrians.",
+            "V": "Một số khác thì đi nhanh và coi thường an toàn và không gian của những người đi bộ.",
+            "GV": "Một người khác đang đi bộ nhanh và bỏ rơi một cách liều lĩnh vì sự an toàn hoặc không gian của những người cùng đi bộ với bạn.",
+            "BV": "Một cách khác là đi bộ nhanh và với sự từ bỏ liều lĩnh vì sự an toàn hoặc không gian của những người đi bộ đồng nghiệp của bạn."
+        },
+        {
+            "ID": 83,
+            "A": "So its common practice to walk the sidewalks and throwing bows to fend off people who are slower than you.",
+            "V": "Vì vậy thường thì đi bộ trên vỉa hè và hích khủy tay để né những người chậm hơn bạn.",
+            "GV": "Vì vậy, thông lệ là đi bộ trên vỉa hè và ném cung để chống lại những người chậm hơn bạn.",
+            "BV": "Vì vậy, thực tế phổ biến của nó là đi bộ trên vỉa hè và ném cung để chống đỡ những người chậm hơn bạn."
+        },
+        {
+            "ID": 84,
+            "A": "In Hawaii this practice is looked down upon and will probably land you in jail.",
+            "V": "Ở Hawaii hành động này sẽ bị đánh giá thấp và sẽ có thể bỏ tù bạn.",
+            "GV": "Ở Hawaii, thông lệ này bị coi thường và có thể sẽ khiến bạn phải ngồi tù.",
+            "BV": "Ở Hawaii, thực tế này bị coi thường và có thể sẽ khiến bạn phải ngồi tù."
+        },
+        {
+            "ID": 85,
+            "A": "The trip was awesome, I worked hard, partied hard and over all had a blast being the tourist.",
+            "V": "Chuyến đi thật tuyệt vời, tôi đã làm việc chăm chỉ, tiệc tùng nhiều và trên tất cả đã có một chuyến du lịch thú vị.",
+            "GV": "Chuyến đi thật tuyệt vời, tôi đã làm việc chăm chỉ, tiệc tùng chăm chỉ và hơn hết tôi rất vui khi được là khách du lịch.",
+            "BV": "Chuyến đi thật tuyệt vời, tôi đã làm việc chăm chỉ, tiệc tùng chăm chỉ và trên tất cả đều có một vụ nổ là khách du lịch."
+        },
+        {
+            "ID": 86,
+            "A": "I did all the requisite things a tourist must do.",
+            "V": "Tôi đã làm tất cả những điều cần thiết một khách du lịch phải làm.",
+            "GV": "Tôi đã làm tất cả những điều cần thiết mà một khách du lịch phải làm.",
+            "BV": "Tôi đã làm tất cả những điều cần thiết mà một khách du lịch phải làm."
+        },
+        {
+            "ID": 87,
+            "A": "I went to times square, took a picture in front of the blaring neon.",
+            "V": "Tôi đã đi đến quảng trường thời đại, chụp một bức ảnh đứng trước một bảng hiệu quảng cáo nhiều màu sắc.",
+            "GV": "Tôi đến quảng trường thời đại, chụp một bức ảnh trước ánh đèn neon chói lọi.",
+            "BV": "Tôi đã đến quảng trường thời đại, chụp một bức ảnh trước đèn neon rực rỡ."
+        },
+        {
+            "ID": 88,
+            "A": "I went to Ellis Island and the Statue of Liberty, needless to say this trip took my breath away.",
+            "V": "Tôi đã đến Ellis Island và tượng Nữ thần Tự do, không cần phải nói chuyến đi này đã khiến tôi hết sức kinh ngạc.",
+            "GV": "Tôi đã đến Đảo Ellis và Tượng Nữ thần Tự do, không cần phải nói chuyến đi này khiến tôi nghẹt thở.",
+            "BV": "Tôi đã đến đảo Ellis và Tượng Nữ thần Tự do, không cần phải nói chuyến đi này đã lấy đi hơi thở của tôi."
+        },
+        {
+            "ID": 89,
+            "A": "To think that these people spent their entire life savings to make a trip to America, to better their lives and still had no guarantee of citizenship.",
+            "V": "Việc nghĩ rằng những người này đã dành toàn bộ tiền tiết kiệm cả đời của họ để thực hiện một chuyến đi đến Mỹ, để làm cho cuộc sống của họ hay ho hơn và vẫn không có đảm bảo gì về quốc tịch của họ.",
+            "GV": "Nghĩ rằng những người này đã dành cả đời tiết kiệm để thực hiện một chuyến đi đến Mỹ, để cải thiện cuộc sống của họ và vẫn không được đảm bảo quyền công dân.",
+            "BV": "Nghĩ rằng những người này đã dành toàn bộ tiền tiết kiệm cả đời để thực hiện một chuyến đi đến Mỹ, để cải thiện cuộc sống của họ và vẫn không có gì đảm bảo quyền công dân."
+        },
+        {
+            "ID": 90,
+            "A": "I ate well, if you know my FB you've seen me go totally asian and photograph every meal i ate pretty much with my iphone and upload them directly to my iphone.",
+            "V": "Tôi ăn nhiều, nếu bạn biết FB của tôi bạn đã nhìn thấy tôi ăn là đồ châu Á và chụp tất cả các bức ảnh mỗi bữa ăn bằng iphone và đăng nó trực tiếp bằng iphone của mình.",
+            "GV": "Tôi đã ăn rất ngon, nếu bạn biết FB của tôi, bạn đã thấy tôi hoàn toàn là người châu Á và chụp ảnh mọi bữa ăn tôi đã ăn khá nhiều bằng iphone của mình và tải chúng trực tiếp lên iphone của tôi.",
+            "BV": "Tôi đã ăn rất ngon, nếu bạn biết FB của tôi, bạn đã thấy tôi hoàn toàn đi châu Á và chụp ảnh mỗi bữa ăn tôi đã ăn khá nhiều với iphone của mình và tải chúng trực tiếp lên iphone của tôi."
+        },
+        {
+            "ID": 91,
+            "A": "I'm not an alcoholic by any means, in fact i normally tend to stay away from alcohol.",
+            "V": "Chắc chắn tôi không phải là một người nghiện rượu, thật ra bình thường tôi luôn có thói quen tránh xa rượu.",
+            "GV": "Tôi không phải là người nghiện rượu, thực tế là tôi thường có xu hướng tránh xa rượu.",
+            "BV": "Tôi không phải là người nghiện rượu bằng bất kỳ phương tiện nào, trên thực tế, tôi thường có xu hướng tránh xa rượu."
+        },
+        {
+            "ID": 92,
+            "A": "But something about being in New York made me want to drink.",
+            "V": "Nhưng một cái gì đó về việc ở New York đã làm cho tôi muốn uống.",
+            "GV": "Nhưng có điều gì đó về việc ở New York khiến tôi muốn uống.",
+            "BV": "Nhưng một cái gì đó về việc ở New York khiến tôi muốn uống rượu."
+        },
+        {
+            "ID": 93,
+            "A": "For example the most Soju I ever drank was 3 shots amongst friends.",
+            "V": "Ví dụ, Soju uống nhiều nhất là ba lần với mấy người bạn.",
+            "GV": "Ví dụ, ly Soju nhiều nhất tôi từng uống là 3 ly với bạn bè.",
+            "BV": "Ví dụ, rượu Soju mà tôi từng uống nhiều nhất là 3 phát giữa những người bạn."
+        },
+        {
+            "ID": 94,
+            "A": "It's not the strongest drink in the world, but its the sense of companionship that it instills in people.",
+            "V": "Không phải đó là thức uống mạnh nhất trên thế giới, mà đó ý nghĩa của tình bạn mà nó truyền tải đến mọi người.",
+            "GV": "Đó không phải là thức uống mạnh nhất trên thế giới, mà là cảm giác đồng hành mà nó thấm nhuần trong con người.",
+            "BV": "Nó không phải là thức uống mạnh nhất trên thế giới, nhưng đó là cảm giác đồng hành mà nó thấm nhuần trong con người."
+        },
+        {
+            "ID": 95,
+            "A": "Something that probably ruined my Pho eating experiences here in Hawaii.",
+            "V": "Cái gì đó mà có thể hủy mọi kinh nghiệm ăn Phở của tôi ở Hawaii.",
+            "GV": "Một cái gì đó có lẽ đã làm hỏng trải nghiệm ăn phở của tôi ở Hawaii.",
+            "BV": "Một cái gì đó có lẽ đã phá hỏng trải nghiệm ăn Phở của tôi ở Hawaii."
+        },
+        {
+            "ID": 96,
+            "A": "To my knowledge no place here serves soju with pho.",
+            "V": "Theo kinh nghiệm của tôi không có chỗ nào ở đây bán rượu soju và phở.",
+            "GV": "Theo hiểu biết của tôi, không có nơi nào ở đây phục vụ soju với phở.",
+            "BV": "Theo hiểu biết của tôi, không có nơi nào ở đây phục vụ rượu soju với phở."
+        },
+        {
+            "ID": 97,
+            "A": "I had a blast in New York and i would love to go back and explore the city more so than i did.",
+            "V": "Tôi đã có sự trải nghiệm thú vị ở New York và toi sẽ quay trở lại và khám phá thành phố này nhiều hơn những gì tôi đã làm.",
+            "GV": "Tôi đã có một kỳ nghỉ tuyệt vời ở New York và tôi muốn quay trở lại và khám phá thành phố hơn tôi đã làm.",
+            "BV": "Tôi đã có một vụ nổ ở New York và tôi rất muốn quay lại và khám phá thành phố nhiều hơn tôi đã làm."
+        },
+        {
+            "ID": 98,
+            "A": "But, no place compares to my home here in the Islands.",
+            "V": "Tuy nhiên, không có nơi nào so sánh được với ngôi nhà của tôi ở đảo.",
+            "GV": "Nhưng, không nơi nào có thể so sánh với nhà của tôi ở Quần đảo này.",
+            "BV": "Nhưng, không có nơi nào có thể so sánh với nhà tôi ở đây trong Quần đảo."
+        },
+        {
+            "ID": 99,
+            "A": "Born Kwon Ji Yong, G-Dragon is the leader, rapper as well as co-producer of boy band Big Bang.",
+            "V": "Born Kwon Ji Yong, G-Dragon là trưởng nhóm, rapper cũng như hợp tác sản xuất của cậu bé của nhóm nhạc nam Big Bang.",
+            "GV": "Sinh ra là Kwon Ji Yong, G-Dragon là trưởng nhóm, rapper cũng như đồng sản xuất của nhóm nhạc nam Big Bang.",
+            "BV": "Sinh ra là Kwon Ji Yong, G-Dragon là trưởng nhóm, rapper cũng như đồng sản xuất của nhóm nhạc nam Big Bang."
+        },
+        {
+            "ID": 100,
+            "A": "In 2009, he released his debut solo album, Heartbreaker, which became very successful but was plagued by plagiarism controversy.",
+            "V": "Vào năm 2009, anh phát hành album solo đầu tay của mình, \"Heartbreaker\", rất thành công nhưng bị trục trặc bởi vấn đề ăn cắp ý tưởng.",
+            "GV": "Năm 2009, anh phát hành album solo đầu tay Heartbreaker, album này rất thành công nhưng vướng phải tranh cãi đạo nhạc.",
+            "BV": "Năm 2009, anh phát hành album solo đầu tay của mình, Heartbreaker, trở nên rất thành công nhưng bị cản trở bởi những tranh cãi về đạo văn."
+        }
+    ]
+}

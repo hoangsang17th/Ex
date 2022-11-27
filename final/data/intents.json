@@ -4,8 +4,8 @@
             "tag": "greeting",
             "patterns": [
                 "Xin chào",
-                "Bạn khỏe không",
-                "Có ai ở đó không",
+                "Bạn khỏe không?",
+                "Có ai ở đó không?",
                 "Chào bạn",
                 "Chào"
             ],
@@ -13,7 +13,8 @@
                 "Chào Sang, tôi có thể giúp gì cho bạn?",
                 "FinFree có thể giúp gì cho bạn không?",
                 "Xin chào, tôi có thể giúp gì cho bạn",
-                "Đằng này xin chòa lại đằng đó nhé"
+                "Đằng này xin chòa lại đằng đó nhé",
+                "Chào ông già nghèo khổ cô đơn!"
             ]
         },
         {
@@ -39,7 +40,22 @@
             "responses": [
                 "Rất vui khi giúp được bạn",
                 "Oki, chúc bạn một ngày tốt lành",
-                "Không có gì"
+                "Không có gì:))"
+            ]
+        },
+        {
+            "tag": "order",
+            "patterns": [
+                "Tôi muốn đặt mua",
+                "Tôi muốn đặt hàng",
+                "Tôi muốn mua",
+                "Làm ơn đặt hàng cho tôi"
+            ],
+            "responses": [
+                "Bạn muốn đặt mua sản phẩm nào?",
+                "Đợi tôi xíu nhé, tôi sẽ kiểm tra lại",
+                "Tôi đang điều hướng bạn tới trang thanh toán. Xin vui lòng chờ trong giây lát",
+                "Oki thôi. Chờ tôi giây lát nhé"
             ]
         }
     ]
