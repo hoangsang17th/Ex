@@ -57,6 +57,19 @@
                 "Tôi đang điều hướng bạn tới trang thanh toán. Xin vui lòng chờ trong giây lát",
                 "Oki thôi. Chờ tôi giây lát nhé"
             ]
+        },
+        {
+            "tag": "unavailable",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "Xin lỗi, tôi không hiểu ý bạn",
+                "Tôi không hiểu ý bạn",
+                "Tôi không hiểu ý bạn, bạn có thể nói lại được không?",
+                "Oh no!. Đợi xí nhá bé. Anh kêu admin ra support cho :))"
+            ]
         }
+      
     ]
 }

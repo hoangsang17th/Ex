@@ -29,3 +29,5 @@ Một bộ phân loại ý định được sử dụng để khớp đầu ra c
 [x] Cần đánh giá chất lượng của mô hình thông qua các phương pháp đánh giá tương ứng, có thể so sánh qua nhiều phương pháp đánh giá khác nhau
 [] Nên so sánh giữa các thuật toán cho cùng 1 đề tài
 [x] Nên triển khai ứng dụng trên giao diện người dùng (trên web, app...)
+
+Retrieval-based Chatbots
