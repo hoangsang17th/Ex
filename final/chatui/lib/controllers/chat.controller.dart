@@ -20,13 +20,17 @@ class ChatController extends GetxController {
   RxList<ChatMessage> chat = <ChatMessage>[].obs;
   Future<void> onSendMsg() async {
     try {
-      var url = Uri.parse('http://localhost:3000/chatbot');
-      var response = await http.post(url, body: {
-        'message': message.text,
-      });
-      addMsg(message.text, true);
-      addMsg(jsonDecode(response.body)['message'], false);
-      message.text = "";
+      if (message.text.trim() != "") {
+        addMsg(message.text, true);
+        String mess = message.text;
+        message.text = "";
+        var url = Uri.parse('http://10.0.2.2:3000/chatbot');
+        var response = await http.post(url, body: {
+          'message': mess,
+        });
+
+        addMsg(jsonDecode(response.body)['message'], false);
+      }
     } catch (e) {
       log("Lỗi connect rồi");
     }

@@ -1,4 +1,5 @@
 import random
+from flask import Flask, request
 from googletrans import Translator
 import numpy as np
 from keras.models import load_model
@@ -10,6 +11,20 @@ from underthesea import text_normalize, word_tokenize
 from langdetect import detect
 # Lemmatize using WordNet's built-in morphy function.
 # Returns the input word unchanged if it cannot be found in WordNet.
+
+app = Flask(__name__)
+
+
+@app.route('/chatbot', methods=['POST'])
+def chatbot():
+    message = request.form["message"]
+    print(message)
+    res = app.response_class(
+        response=json.dumps({"message": Chatbot().chatbot_response(message)}),
+        status=200,
+        mimetype='application/json'
+    )
+    return res
 
 
 class Chatbot:
@@ -32,32 +47,18 @@ class Chatbot:
 
         print("Chatbot is ready to talk!")
 
-        # @app.route('/')
-        # def index():
-        #     return render_template('index.html')
-
-        # @app.route('/chatbot', methods=['POST'])
-        # def chatbot():
-        #     message = request.form["message"]
-        #     print(message)
-        #     res = app.response_class(
-        #         response=json.dumps({"message": chatbot_response(message)}),
-        #         status=200,
-        #         mimetype='application/json'
-        #     )
-        #     return res
-
     def clean_up_sentence(self, sentence):
         # TODO: Thêm nhận dạng ngôn ngữ và sử dụng GG Translate API để dịch qua tiếng việt
         # Song ngữ rồi á
         try:
             self.language = detect(sentence)
+
         except:
             self.language = 'vi'
         if self.language != 'vi':
             translator = Translator(service_urls=['translate.googleapis.com'])
             sentence = translator.translate(sentence, dest='vi').text
-            print("From:" + self.language + "To: " + 'vi')
+            print("From: " + self.language + " To: " + 'vi')
             print("Translated:", sentence)
         # Phân đoạn từ
         sentence_words = word_tokenize(sentence)
@@ -116,4 +117,6 @@ class Chatbot:
 
 
 if __name__ == '__main__':
+
+    # app.run(host="127.0.0.1", port=3000, debug=True)
     Chatbot().run()
